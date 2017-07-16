@@ -1,0 +1,325 @@
+
+/* To appear on a positive credit/loyalty transaction. Is a suffix -- will come after ammount of currency in a numerical form. */
+"  earned" = " tuillte";
+
+/* Refund transaction suffix */
+"  refunded" = " aisíoctha";
+
+/* Positive gift transaction will be displayed in the form '€5.50 added.' */
+" added" = " curtha leis";
+
+/* To appear on an upfront transaction i.e. use either top-up their account via top-up or with cash at POS */
+" loaded" = " lódáilte";
+
+/* To appear on loyalty redemption transaction suffix i.e. after the amount again. */
+" redeemed" = " fuascailte";
+
+/* Redeem transaction for Gift will be displayed in the form '€5.50' spent */
+" spent" = " caite";
+
+/* Appears on a transaction marked as a surcharge for contractors in the Central bank will be displayed in the form '€5.50 added.' */
+" surcharge" = " formhuirear";
+
+/* Vending redemption transaction suffix */
+" vending machine" = " meaisín díola";
+
+/* Vending transaction suffix */
+" vending refund" = " aisíoc díola";
+
+/* No comment provided by engineer. */
+"%@ %@" = "%@ %@";
+
+/* The d is the number of stamps added and the s is wheter it's plural */
+"%d stamp%@ received" = "d stamp%@ received";
+
+/* Label that appears at the bottom of a tiered history page to let use know the rolling window used for calculating the tiers. */
+"*calculated over 90 days" = "calculated over 90 days";
+
+/* No comment provided by engineer. */
+"Allowed to location Access" = "Rochtain Suímh Ceadaithe";
+
+/* User status of Digits when Logged in */
+"Already Verified" = "Already Verified";
+
+/* Back */
+"Back" = "Ar Ais";
+
+/* Top title for balance screen */
+"Balance" = "Iarmhéid";
+
+/* No brand logo basically means you can't progress */
+"Brand Logo URL Unresolvable" = "URL Lógó Bhranda gan réiteach";
+
+/* Camera Button title when deciding between library and camera on profile editor */
+"Camera" = "Camera";
+
+/* Cancel and dismiss Logout prompt
+   Cancel forgot password */
+"Cancel" = "Dún";
+
+/* Card transaction but for stamp transactions -- not sure how this would work maybe dual balance guys */
+"Card" = "Cárta";
+
+/* Generic success message for Linking Card */
+"Card Linked" = "Cárta Nascaithe";
+
+/* Warning, notifying user */
+"Careful Now" = "Seachain Ansin";
+
+/* Cancel button on Digits controller */
+"Change Number" = "Change Number";
+
+/* Instruction to check the user email likely whatever one they just entered and submitted. */
+"Check your email" = "R-phost";
+
+/* Close button for Gift card link request, will return to camera and reactivate capture session. 
+   Close button for sucessful gift card dialog prompt. */
+"Close" = "Dún";
+
+/* Indicates the premises is closed at this time like right now. */
+"Closed" = "Dúnta";
+
+/* Default title for the Open/Close sign on the nav menu */
+"CLOSED" = "DÚNTA";
+
+/* Closed at [ClosingTime] - displayed after the branch has closed */
+"CLOSED at" = "DÚNTA ag";
+
+/* Close, opens at [OpeningTime] - branch hasn't even opened today let user know what time. */
+"CLOSED, opens at" = "DÚNTA, oscailte go dtí";
+
+/* Displayed after sorting merchants by distance from user location. */
+"Closest to You" = "Is Gaire Duit";
+
+/* No comment provided by engineer. */
+"Could Not Send Email" = "Níor Seoladh An R-phost";
+
+/* No comment provided by engineer. */
+"CVV" = "CVV";
+
+/* Top title for Dev Menu */
+"Dev Menu" = "Clár Forbróra";
+
+/* Button on Profile VC to dimsiss date of birth picker */
+"Dismiss" = "Dismiss";
+
+/* Message appears on the confirmation dialog to ensure user wishes to logoout */
+"Do you wish to Logout?" = "Logáil Amach";
+
+/* What the bonus amount will be for Upfront */
+"earns %@" = "tuilltear %@";
+
+/* Placeholder for Textfield on Login screen */
+"Email" = "R-phost";
+
+/* No comment provided by engineer. */
+"Email is Empty" = "R-phost Folamh";
+
+/* Placeholder text for CVV textfield. */
+"Enter CVV" = "Cuir isteach CVV";
+
+/* UITextField will present a UIDatePicker -- placeholder in case no bday available */
+"Enter Date of Birth" = "Enter Date of Birth";
+
+/* Instruction label for how to reset password. */
+"Enter your email or LoyLap ID to reset your password" = "Cuir isteach do r-phost agus cuirfimid r-phost chugat le treoracha athshocraithe pasfhocail.";
+
+/* Forgot password error - displayed when spinner is pulled down
+   Generic Error for some Gift Card failure.
+   No Brand Logo Error Title */
+"Error" = "Earráid";
+
+/* No comment provided by engineer. */
+"Error: ❌" = "Earráid: ❌";
+
+/* Error detected in linking gift card but unable to parse message so use generic front end message as we don't know why request failed. */
+"Failed to link Card" = "Theip ar nascadh Cárta";
+
+/* Firstname comparison string placeholder */
+"Firstname" = "Firstname";
+
+/* Forgot Password placeholder on Login screen
+   Title for forgot password dialog prompt */
+"Forgot Password" = "Pasfhocal Dearmadta";
+
+/* At symbol is the reward title i.e. coffee or tea and is to be diplayed in the history transaction screen. */
+"Free %@" = "Free %@";
+
+"Friday" = "Dé hAoine";
+
+/* No comment provided by engineer. */
+"Global: 🌍" = "Domhanda: 🌍";
+
+/* Google Maps Alert Title */
+"Google Maps" = "Google Maps";
+
+/* Top title to appear on the Help menu */
+"Help" = "Cabhair";
+
+/* Top title for the History screen */
+"History" = "Stair";
+
+/* No comment provided by engineer. */
+"Ireland: 🇮🇪" = "Éire: 🇮🇪";
+
+"Link LoyLap Card" = "Nasc Cárta Bronntanais";
+
+/* Use */
+"LoyLap requires Birthday\n\n Navigate to Facebook Settings -> Select Apps -> Remove LoyLap and log in here again." = "Dáta Breithe de dhíth ar LoyLap. Nasclean go Socruithe Facebook -> Roghnaigh Feidhmchláir -> Bain LoyLap agus logáil isteach arís anseo";
+
+/* The user has denied Loylap FB permission despite trying to login with Facebook - the instruction should let them know how to fix this. */
+"LoyLap requires Email\n\n Navigate to Facebook Settings -> Select Apps -> Remove LoyLap and log in here again." = "R-phost de dhíth ar LoyLap. Nasclean go Socruithe Facebook -> Roghnaigh Feidhmchláir -> Bain LoyLap agus logáil isteach arís anseo";
+
+/* No comment provided by engineer. */
+"Mail Cancelled" = "Post Curtha ar Ceal";
+
+/* No comment provided by engineer. */
+"Mail Saved" = "Post sábháilte";
+
+/* No comment provided by engineer. */
+"Mail Sent" = "Post seolta";
+
+/* No comment provided by engineer. */
+"Mail sent failure: %@" = "Theip ar an seoladh poist";
+
+/* Maps SDK Demos */
+"Maps SDK Demos" = "Maps SDK Demos";
+
+/* No comment provided by engineer. */
+"Message Sent Failure" = "Theip ar an seoladh poist";
+
+/* Days of the Week - Don't Abbreviate */
+"Monday" = "Dé Luain";
+
+/* No comment provided by engineer. */
+"Name is Empty" = "Ainm Folamh";
+
+/* What the users new balance will be after this transaction. */
+"New Balance" = "Iarmhéid Nua";
+
+/* Request Manager just can't read or parse whatever the LoyLap server send as a response. However did receive something. */
+"No Decipherable Response" = "No Decipherable Response";
+
+/* Password wasn't reset because an error was found in the response. */
+"No Joy Resetting Password" = "No Joy Resetting Password";
+
+/* Reponse error flag was asserted. */
+"No Successful Response" = "No Successful Response";
+
+/* Open til [ClosingTime] - displayed while the branch is open */
+"OPEN til" = "OSCAILTE go dtí";
+
+/* Title that appears on the weekly opening hours screen. */
+"Opening Hours" = "Uaireanta Oscailte";
+
+"Order" = "Ordaigh";
+
+/* No comment provided by engineer. */
+"Password is Empty" = "Pasfhocal Folamh";
+
+/* Password has been reset sucess message */
+"Password Reset" = "Password Reset";
+
+/* User status of Digits when Logged in */
+"Phone Number already Verified" = "Phone Number already Verified";
+
+/* Library Button title when deciding between library and camera on profile editor */
+"Photo Library" = "Photo Library";
+
+/* Credit Validation Value is a LoyLap code not a Credit Card one - it's a three digit number used as an additional factor in authenticating gift cards to make sure they have it. */
+"Please enter code on the reverse of the gift card:" = "Cuir isteach an cód ar an taobh eile den Chárta Bronntanais le do thoil:";
+
+/* Error message to indicate problem updating the User */
+"Problem Updating User" = "Problem Updating User";
+
+"Promotions" = "Promóisin";
+
+/* No comment provided by engineer. */
+"Qatar: 🇶🇦" = "Qatar: 🇶🇦";
+
+/* Message to be displayed up realizing location permisions have been locked. */
+"Restricted Access to location" = "Rochtain Srianta ar an suíomh ";
+
+/* Samples */
+"Samples" = "Samplí";
+
+"Saturday" = "Dé Sathairn";
+
+/* Button on Profile VC to change date of birth picker */
+"Save" = "Save";
+
+/* Top title for link gift card screen */
+"Scan Gift Card" = "Scan Cárta Bronntanais";
+
+/* Note to appear to let use know they can search using text i.e. by name of Merchant */
+"Search here..." = "Cuardaigh anseo...";
+
+/* Top title for Brand selection screen, titles should ideally conform to the option in the menu that was selected. */
+"Select Brand" = "Athraigh Ceannaí";
+
+/* If Facebook hasn't verified their email we probably aren't going to get it off them and we need such a unique identifier. */
+"Sorry, Facebook couldn't verify your email. You can create a new LoyLap account in \"I'm New'\"" = "Brón orainn, níor éirigh le Facebook do r-phost a dhearbhú. Is féidir leat cuntas nua LoyLap a chruthú in Táim Nua";
+
+/* No comment provided by engineer. */
+"Status not determined" = "Stádas gan a bheith deimhnithe";
+
+/* Text to appear on a submit button -- will fire request after being pressed. */
+"Submit CVV" = "Cuir CVV ar fáil";
+
+"Sunday" = "Dé Domhnaigh";
+
+/* Surname comparison string placeholder */
+"Surname" = "Surname";
+
+"Thursday" = "Déardaoin";
+
+/* [Opening Time] to [Closing Time] */
+"to" = "-";
+
+"Top Up" = "Breisigh";
+
+/* Indicates what amount the user has selected in the top up screen. */
+"Topping up by %@" = "Le breisiú de %@";
+
+/* Format for the string to return to a calling app. */
+"Touch to return to %1$@" = "Amach go dtí %1$@";
+
+/* No comment provided by engineer. */
+"Tour\(index)" = "Turas\(index)";
+
+"Tuesday" = "Dé Máirt";
+
+/* Note to appear to let use know they can search using text i.e. by name of Merchant */
+"Type to search ..." = "Type to search ...";
+
+/* No comment provided by engineer. */
+"United Kingdom: 🇬🇧" = "An Ríocht Aontaithe: 🇬🇧";
+
+/* No comment provided by engineer. */
+"United States of America: 🇺🇸" = "Stáit Aontaithe Mheiriceá: 🇺🇸";
+
+/* Cancel button on Digits controller */
+"Update" = "Update";
+
+/* Top title for Top-Up screen, titles appear in the navigation bar btw. */
+"Upfront" = "Breisigh";
+
+/* Message displayed after use has denied requested location permission. */
+"User denied access to location" = "Rochtain Suímh diúltaithe don úsáideoir";
+
+/* Text to indicate that pressing phone button will requring validating the phone number first */
+"Validate Number" = "Validate Number";
+
+"Wednesday" = "Dé Céadaoin";
+
+/* Confirm user will Logout */
+"Yes" = "Tá";
+
+/* User status of Digits when Logged in */
+"You are logged in!" = "You are logged in!";
+
+/* This text indicates an empty state for the History screen. */
+"You've no transactions \n with %@" = "Níl aon idirbhearta agat \n le %@";
+
+/* They basically have to have the iOS equivalent of Outlook setup on their phone to send an email. */
+"Your device could not send e-mail.  Please check e-mail configuration and try again." = "Níor sheol do ghléas an r-phost. Deimhnigh socruithe r-phoist agus bain triail eile as.";
