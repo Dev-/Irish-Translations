@@ -1,0 +1,4468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sean Deverell <sean@loylap.com>\n"
+"Language-Team: \n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n>=3 && n<=6 ? 2 : "
+"n>=7 && n<=10 ? 3 : 4);\n"
+
+#: src/common/template/footer/main.jsx
+#, fuzzy
+msgid ""
+"LoyLap is a Fintech company specialising in Payment Initiating Service "
+"Provisions. Our solutions help our clients to retain, understand and engage "
+"their customers. "
+msgstr ""
+"Is cuideachta Fintech é LoyLap a dhéanann sainfheidhmiú ar Fhorálacha "
+"Seirbhíse Tosaithe Íocaíochta. Cabhraíonn ár réitigh lenár gcliaint a gcuid "
+"custaiméirí a choinneáil, a thuiscint agus a fhostú "
+
+#: src/common/template/footer/main.jsx
+#, fuzzy
+msgid ""
+"Our mission is to streamline transactions so businesses can get on doing "
+"what they do best."
+msgstr ""
+"Is é an misean atá againn ná idirbhearta a shruthlíniú ionas gur féidir le "
+"gnóthaí dul i mbun a gcuid oibre is fearr."
+
+#: src/common/template/footer/main.jsx
+#, fuzzy
+msgid "Careers"
+msgstr "Gairmeacha"
+
+#: src/common/template/footer/main.jsx
+#, fuzzy
+msgid "We're hiring on"
+msgstr "Táimid ag fruiliú"
+
+#: src/common/template/footer/main.jsx
+#, fuzzy
+msgid ""
+"If you’re passionate about small businesses, technology and/or marketing, "
+"we’d love to hear from you."
+msgstr ""
+"Má tá tú paiseanta faoi ghnólachtaí beaga, faoi theicneolaíocht agus / nó "
+"faoi mhargaíocht, ba bhreá linn cloisteáil uait."
+
+#. Main menu item
+#: src/common/template/footer/main.jsx src/common/template/header/main.jsx
+#: src/modules/general/menu/main.jsx
+msgid "Support"
+msgstr "Tacaíocht"
+
+#: src/common/template/footer/main.jsx
+#, fuzzy
+msgid "FAQ"
+msgstr "CC"
+
+#. Main menu item
+#: src/common/template/footer/main.jsx src/modules/general/menu/main.jsx
+msgid "Help"
+msgstr "Cabhair"
+
+#. Main menu item
+#: src/common/template/footer/main.jsx src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "Send your feedback"
+msgstr "Seol do chuid aiseolais"
+
+#: src/common/template/footer/main.jsx
+#, fuzzy
+msgid "Follow us"
+msgstr "Lean orainn"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "year"
+msgstr "bliain"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+#, fuzzy
+msgid "AM"
+msgstr "AM"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+#, fuzzy
+msgid "PM"
+msgstr "PM"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+#, fuzzy
+msgid "Please select a time greater than current"
+msgstr "Roghnaigh am níos mó ná an sruth"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "January"
+msgstr "Eanáir"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "February"
+msgstr "Feabhra"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "March"
+msgstr "Márta"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "April"
+msgstr "Aibreán"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "May"
+msgstr "Bealtaine"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "June"
+msgstr "Meitheamh"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "July"
+msgstr "Iúil"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "August"
+msgstr "Lúnasa"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "September"
+msgstr "Meán Fómhair"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "October"
+msgstr "Deireadh Fómhair"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "November"
+msgstr "Samhain"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "December"
+msgstr "Nollaig"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+#: src/common/template/forms/inputs/main.jsx
+#: src/modules/merchant/order-and-pay/products/category.jsx
+#, fuzzy
+msgid "Clear"
+msgstr "Cléire"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+#: src/modules/merchant/overview/transaction.jsx
+#: src/modules/merchant/transactions/data.jsx
+msgid "Today"
+msgstr "Inniu"
+
+#: src/common/template/forms/datepicker/main.jsx
+#: src/common/template/forms/datepicker/main.mobile.jsx
+msgid "Tomorrow"
+msgstr "Amárach"
+
+#: src/common/template/header/main.jsx
+#, fuzzy
+msgid "Sign Up"
+msgstr "Clarú"
+
+#. Interface button
+#: src/common/template/header/main.jsx src/modules/auth/login/main.jsx
+msgid "Log in"
+msgstr "Logaáil isteach"
+
+#: src/common/template/header/main.jsx
+#, fuzzy
+msgid "My merchants"
+msgstr "Mo ceannaithe"
+
+#: src/common/template/header/main.jsx src/modules/general/qr-code/main.jsx
+msgid "Link a card"
+msgstr "Nasc Cárta"
+
+#. Main menu item
+#. Interface title
+#: src/common/template/header/main.jsx src/modules/general/menu/main.jsx
+#: src/modules/merchant/tabs.jsx src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Topup"
+msgstr "Topup"
+
+#: src/config/resources/addtohome.jsx
+msgid "LoyLap"
+msgstr "LoyLap"
+
+#: src/config/resources/addtohome.jsx
+#, fuzzy
+msgid "Smart Points Ltd."
+msgstr "Smart Points Ltd."
+
+#: src/config/resources/addtohome.jsx
+msgid "Free"
+msgstr "Saor"
+
+#: src/config/resources/addtohome.jsx
+msgid "Install"
+msgstr "Suiteáil"
+
+#: src/config/resources/addToHomeInstructionsIOS/main.jsx
+#, fuzzy
+msgid "Install this app on your iPhone:"
+msgstr "Suiteáil an feidhmchlár seo ar do iPhone:"
+
+#: src/config/resources/addToHomeInstructionsIOS/main.jsx
+#, fuzzy
+msgid "tap"
+msgstr "sconna"
+
+#: src/config/resources/addToHomeInstructionsIOS/main.jsx
+#, fuzzy
+msgid "Safari Icon"
+msgstr "Safari Icon"
+
+#: src/config/resources/addToHomeInstructionsIOS/main.jsx
+#, fuzzy
+msgid "and then Add to Home Screen"
+msgstr "agus ansin Cuir le Scáileán Baile"
+
+#: src/config/resources/addToHomeInstructionsIOS/main.jsx
+msgid "close"
+msgstr "dún"
+
+#: src/config/resources/appOutdatedWarning/main.jsx
+#, fuzzy
+msgid "Your app has been updated"
+msgstr "Nuashonraíodh do app"
+
+#. warning that the user is in dev mode
+#: src/config/resources/appOutdatedWarning/main.jsx
+#: src/config/resources/cardExpiredWarning/main.jsx
+#: src/config/resources/devWarning/main.jsx
+msgid "Close"
+msgstr "Dúnta"
+
+#: src/config/resources/appOutdatedWarning/main.jsx
+#: src/config/resources/cardExpiredWarning/main.jsx
+#, fuzzy
+msgid "Attention"
+msgstr "Aire"
+
+#: src/config/resources/appOutdatedWarning/main.jsx
+#, fuzzy
+msgid "Your app needs be updated"
+msgstr "Ní mór do app a nuashonrú"
+
+#: src/config/resources/appOutdatedWarning/main.jsx
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Update"
+msgstr "Nuashonraigh"
+
+#: src/config/resources/appUpdatedMessage/main.jsx
+#, fuzzy
+msgid "App"
+msgstr "App"
+
+#: src/config/resources/app©dMessage/main.jsx
+#, fuzzy
+msgid "Your app was restored"
+msgstr "Athchóiríodh d’iarratas"
+
+#: src/config/resources/cardExpiredWarning/main.jsx
+msgid "Your card is expired"
+msgstr "Tá do chárta in éag"
+
+#: src/config/resources/cardExpiredWarning/main.jsx
+#, fuzzy
+msgid "Update card"
+msgstr "Nuashonraigh an cárta"
+
+#: src/config/resources/cookiesSetAndWarning/main.jsx
+#, fuzzy
+msgid "Cookies"
+msgstr "Fianáin"
+
+#: src/config/resources/cookiesSetAndWarning/main.jsx
+#, fuzzy
+msgid ""
+"By using this app, you agree to the use of cookies in accordance with the "
+"LoyLap Policy. For more information on cookies see our"
+msgstr ""
+"Trí úsáid a bhaint as an bhfeidhmchlár seo, aontaíonn tú le fianáin a úsáid "
+"de réir an Pholasaí LoyLap. Le haghaidh tuilleadh eolais ar fhianáin féach "
+"ar ár bhfocal"
+
+#: src/config/resources/cookiesSetAndWarning/main.jsx
+#, fuzzy
+msgid ""
+"By using this website, you agree to the use of cookies in accordance with "
+"the LoyLap Policy. For more information on cookies see our"
+msgstr ""
+"Tríd an suíomh gréasáin seo a úsáid, aontaíonn tú le fianáin a úsáid de réir "
+"an Pholasaí LoyLap. Le haghaidh tuilleadh eolais ar fhianáin féach ar ár "
+"bhfocal"
+
+#: src/config/resources/cookiesSetAndWarning/main.jsx
+#: src/config/resources/firebaseNotifications/main.jsx
+#, fuzzy
+msgid "Decline"
+msgstr "Diúltaigh"
+
+#: src/config/resources/cookiesSetAndWarning/main.jsx
+#: src/config/resources/firebaseNotifications/main.jsx
+#, fuzzy
+msgid "Accept"
+msgstr "Glac Leis"
+
+#. warning that the user is in dev mode
+#: src/config/resources/devWarning/main.jsx
+msgid "You're in dev mode"
+msgstr "Tá tú ar ais le %s"
+
+#. warning that the user is in dev mode
+#: src/config/resources/devWarning/main.jsx
+#, fuzzy
+msgid "Switch to live"
+msgstr "Athraigh chun cónaí"
+
+#: src/config/resources/firebaseNotifications/main.jsx
+#, fuzzy
+msgid "Allow automatic updates"
+msgstr "Ceadaigh nuashonruithe uathoibríocha"
+
+#: src/config/resources/firebaseNotifications/main.jsx
+#, fuzzy
+msgid "We use push notifications to update your balance"
+msgstr "Bainimid úsáid as fógraí brú chun do chothromaíocht a nuashonrú"
+
+#: src/config/resources/idle/index.jsx
+#, fuzzy
+msgid "You session are idle"
+msgstr "Tá an seisiún díomhaoin"
+
+#: src/config/resources/idle/index.jsx
+#, fuzzy
+msgid "You session expired"
+msgstr "Chuaigh an seisiún in éag"
+
+#: src/config/resources/idle/index.jsx
+#, fuzzy
+msgid ""
+"Due to browser inactivity for the past 15 minutes your session has timed out "
+"and you must again to access your data. We apologize the inconvenience, but "
+"session timeouts were added for security reasons to ensure that your data is "
+"protected."
+msgstr ""
+"Mar gheall ar neamhghníomhaíocht bhrabhsálaí le 15 nóiméad anuas tá do "
+"sheisiún caite agus caithfidh tú rochtain a fháil ar do chuid sonraí arís. "
+"Gabhaimid leithscéal as an míchaoithiúlacht, ach cuireadh amchláir seisiúin "
+"isteach ar chúiseanna slándála chun a chinntiú go gcosnaítear do shonraí."
+
+#: src/config/resources/idle/index.jsx
+#, fuzzy
+msgid "Choose one of the options bellow:"
+msgstr "Roghnaigh ceann amháin de na roghanna:"
+
+#: src/config/resources/idle/index.jsx
+#, fuzzy
+msgid "Restore session"
+msgstr "Athchóirigh an Seisiún"
+
+#. Session Idle popup option
+#. Main menu item
+#. Interface link
+#. Form field
+#. Interface Title
+#: src/config/resources/idle/index.jsx src/modules/general/menu/main.jsx
+#: src/modules/your-account/edit/profile/main.jsx
+#: src/modules/your-account/profile/header.jsx
+#: src/modules/your-account/settings/security.jsx
+msgid "Logout"
+msgstr "Logaáil Amach"
+
+#: src/config/resources/idle/index.jsx
+#, fuzzy
+msgid "Go to login page"
+msgstr "Téigh go dtí an leathanach logála isteach"
+
+#: src/config/resources/lockOrientation.jsx
+#, fuzzy
+msgid "Sorry"
+msgstr "Tá brón orainn"
+
+#: src/config/resources/lockOrientation.jsx
+#, fuzzy
+msgid "This page was built to work in portrait mode"
+msgstr "Tógadh an leathanach seo chun oibriú i mód portráide"
+
+#. connectivity status
+#: src/config/resources/offline/card.jsx src/config/resources/offline/main.jsx
+#, fuzzy
+msgid "You're offline"
+msgstr "Tá tú as líne"
+
+#: src/config/resources/offline/card.jsx
+#, fuzzy
+msgid "Connect your device on internet"
+msgstr "Ceangail do ghléas ar an idirlíon"
+
+#. connectivity status
+#: src/config/resources/offline/main.jsx
+#, fuzzy
+msgid "Back online"
+msgstr "Ar líne"
+
+#. Form field
+#: src/modules/auth/choose/main.jsx src/modules/auth/login/main.jsx
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid "or"
+msgstr "nó"
+
+#. Interface title
+#: src/modules/auth/choose/main.jsx
+#, fuzzy
+msgid "Choose your profile"
+msgstr "Roghnaigh do phróifíl"
+
+#. Interface button
+#: src/modules/auth/choose/main.jsx
+#, fuzzy
+msgid "I am a customer"
+msgstr "Is custaiméir mé"
+
+#. Interface button
+#: src/modules/auth/choose/main.jsx
+#, fuzzy
+msgid "I am a merchant"
+msgstr "Is ceannaí mé"
+
+#. Form option
+#. Merchant button
+#: src/modules/auth/choose/main.jsx src/modules/auth/login/main.jsx
+#: src/modules/merchant/nonLogged.jsx
+#, fuzzy
+msgid "I don't have an account"
+msgstr "Níl cuntas agam"
+
+#. Form field validation
+#: src/modules/auth/login/main.jsx
+#: src/modules/auth/password-recover/check/main.jsx
+#: src/modules/auth/password-recover/request/main.jsx
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "Your username/password is incorrect"
+msgstr "Tá do ainm úsáideora / do phasfhocal mícheart"
+
+#. Interface title
+#. Main menu item
+#: src/modules/auth/login/main.jsx src/modules/general/menu/main.jsx
+msgid "Login"
+msgstr "Logáil Isteach"
+
+#. Image description
+#: src/modules/auth/login/main.jsx
+#, fuzzy
+msgid "LoyLap Logo"
+msgstr "Lógó LoyLap"
+
+#. Form field
+#: src/modules/auth/login/main.jsx
+msgid "Email"
+msgstr "R-phost"
+
+#. Form field
+#: src/modules/auth/login/main.jsx
+#: src/modules/auth/password-recover/restore/main.jsx
+#: src/modules/your-account/edit/password/main.jsx
+msgid "Password"
+msgstr "Pasfhocal"
+
+#. Form option
+#: src/modules/auth/login/main.jsx
+#, fuzzy
+msgid "I forgot my password"
+msgstr "Rinne mé dearmad ar mo phasfhocal"
+
+#. Interface button
+#: src/modules/auth/login/main.jsx
+#, fuzzy
+msgid "Login via Facebook"
+msgstr "Logáil isteach trí Facebook"
+
+#. Interface title
+#: src/modules/auth/password-recover/check/main.jsx
+#, fuzzy
+msgid "Enter the code we sent to you"
+msgstr "Cuir isteach an cód a sheolamar chugat"
+
+#. Interface title
+#: src/modules/auth/password-recover/check/main.jsx
+#: src/modules/merchant/order-and-pay/main.jsx
+#: src/modules/merchant/order-and-pay/products/item.jsx
+msgid "Back"
+msgstr "Ar Ais"
+
+#: src/modules/auth/password-recover/check/main.jsx
+#, fuzzy
+msgid "Please, check you inbox. We've sent to you an email with 4 digit code"
+msgstr ""
+"Seiceáil, le do thoil, an bosca isteach. Táimid tar éis ríomhphost a "
+"sheoladh chugat le cód 4 dhigit"
+
+#. Form field
+#: src/modules/auth/password-recover/check/main.jsx
+#: src/modules/your-account/create/confirm/main.jsx
+#, fuzzy
+msgid "00-00"
+msgstr "00"
+
+#. Interface button
+#: src/modules/auth/password-recover/check/main.jsx
+#: src/modules/your-account/create/confirm/main.jsx
+#, fuzzy
+msgid "Resend code number"
+msgstr "Uimhir chóid a athchur"
+
+#. Interface button
+#: src/modules/auth/password-recover/check/main.jsx
+#: src/modules/your-account/create/confirm/main.jsx
+#, fuzzy
+msgid "Change email/phone"
+msgstr "Athraigh ríomhphost / fón"
+
+#. Interface button
+#: src/modules/auth/password-recover/check/main.jsx
+#: src/modules/auth/password-recover/request/main.jsx
+msgid "Reset password"
+msgstr "Athshocraigh Pasfhocal"
+
+#. Interface title
+#: src/modules/auth/password-recover/request/main.jsx
+#: src/modules/auth/password-recover/restore/main.jsx
+#, fuzzy
+msgid "Password recover"
+msgstr "Faigheann pasfhocal ar ais"
+
+#. Interface title
+#: src/modules/auth/password-recover/request/main.jsx
+#, fuzzy
+msgid "Back to login"
+msgstr "Ar ais go logáil isteach"
+
+#: src/modules/auth/password-recover/request/main.jsx
+#, fuzzy
+msgid "Enter the email address or phone number you signed up with."
+msgstr ""
+"Cuir isteach an seoladh ríomhphoist nó uimhir theileafóin a shínigh tú."
+
+#: src/modules/auth/password-recover/request/main.jsx
+#, fuzzy
+msgid "We'll send you an email that will let you choose another password"
+msgstr "Seolfaimid ríomhphost chugat a ligfidh duit pasfhocal eile a roghnú"
+
+#. Form field
+#: src/modules/auth/password-recover/request/main.jsx
+#: src/modules/your-account/edit/profile/main.jsx
+#, fuzzy
+msgid "Your email"
+msgstr "Do chuidse rphoist"
+
+#. Field validation message
+#: src/modules/auth/password-recover/restore/main.jsx
+#: src/modules/your-account/create/finish/main.jsx
+#: src/modules/your-account/edit/password/main.jsx
+#, fuzzy
+msgid "Passwords don't match"
+msgstr "Ní mheaitseálann pasfhocail"
+
+#. Interface title
+#: src/modules/auth/password-recover/restore/main.jsx
+#, fuzzy
+msgid "Type bellow your new password."
+msgstr "Clóscríobh do phasfhocal nua."
+
+#. Form field
+#: src/modules/auth/password-recover/restore/main.jsx
+#: src/modules/your-account/edit/password/main.jsx
+#, fuzzy
+msgid "Confirm your password"
+msgstr "Deimhnigh do phasfhocal"
+
+#. Interface button
+#: src/modules/auth/password-recover/restore/main.jsx
+#, fuzzy
+msgid "Change password"
+msgstr "Athraigh do phasfhocal"
+
+#. Interface button
+#: src/modules/general/menu/main.jsx src/modules/your-account/tabs.jsx
+#, fuzzy
+msgid "Hello"
+msgstr "Dia duit"
+
+#. Interface button
+#: src/modules/general/menu/main.jsx
+msgid "Edit your profile"
+msgstr "Cuir do phróifíl in eagar"
+
+#. Interface subtitle
+#: src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "Create your account to start"
+msgstr "Cruthaigh do chuntas le tosú"
+
+#. Interface button
+#: src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "Let's go"
+msgstr "Ar Aghaidh Linn"
+
+#. Main menu item
+#: src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "QR-code"
+msgstr "QR-cód"
+
+#. Main menu item
+#: src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "Manage or link a card"
+msgstr "Bainistigh nó ceangail cárta"
+
+#. Main menu item
+#: src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "Connect payment method"
+msgstr "Ceangail modh íocaíochta"
+
+#. Main menu item
+#. Interface title
+#: src/modules/general/menu/main.jsx src/modules/merchant/transactions/main.jsx
+#, fuzzy
+msgid "Transaction history"
+msgstr "Stair an idirbhirt"
+
+#. Main menu item
+#. Form field
+#: src/modules/general/menu/main.jsx
+#: src/modules/your-account/profile/header.jsx
+#, fuzzy
+msgid "Switch merchant"
+msgstr "Ceannaí lasc"
+
+#. Main menu item
+#: src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "Share with your friends"
+msgstr "Roinn le do chairde"
+
+#. Main menu item
+#. Form field
+#. Interface Title
+#: src/modules/general/menu/main.jsx
+#: src/modules/your-account/profile/header.jsx
+#: src/modules/your-account/settings/init.jsx src/modules/your-account/tabs.jsx
+msgid "Settings"
+msgstr "Socruithe"
+
+#. Main menu item
+#: src/modules/general/menu/main.jsx
+#, fuzzy
+msgid "Our history"
+msgstr "Ár stair"
+
+#. Interface button
+#: src/modules/general/navigation/lite.jsx
+msgid "Search"
+msgstr "Cuardaigh"
+
+#. Interface button
+#: src/modules/general/navigation/lite.jsx src/modules/my-merchants/main.jsx
+#, fuzzy
+msgid "My Merchants"
+msgstr "Mo Cheannaithe"
+
+#. Interface button
+#: src/modules/general/navigation/lite.jsx src/modules/your-account/tabs.jsx
+msgid "Profile"
+msgstr "Profíl"
+
+#. Interface button
+#: src/modules/general/navigation/merchant.jsx
+#, fuzzy
+msgid "Home"
+msgstr "Baile"
+
+#. Interface button
+#: src/modules/general/navigation/merchant.jsx src/modules/merchant/tabs.jsx
+msgid "Order"
+msgstr "Ord"
+
+#. Interface button
+#. merchant app - title section
+#: src/modules/general/navigation/merchant.jsx
+#: src/modules/merchant/overview/campaigns.jsx
+#, fuzzy
+msgid "Offers"
+msgstr "Tairiscintí"
+
+#. Interface button
+#. Form field
+#: src/modules/general/navigation/merchant.jsx
+#: src/modules/your-account/settings/main.jsx
+#, fuzzy
+msgid "More"
+msgstr "Níos Mó"
+
+#: src/modules/general/onboarding/firstSlide.jsx
+#, fuzzy
+msgid "Get Rewarded"
+msgstr "Faigh duais"
+
+#: src/modules/general/onboarding/firstSlide.jsx
+#, fuzzy
+msgid "For purchases at your favourite businesses"
+msgstr "Le haghaidh ceannachán ag do ghnólachtaí is fearr leat"
+
+#: src/modules/general/onboarding/firstSlide.jsx
+#: src/modules/general/onboarding/secondSlide.jsx
+#: src/modules/general/onboarding/thirdSlide.jsx
+#, fuzzy
+msgid "Link a card/Login"
+msgstr "Nasc cárta / Logáil isteach"
+
+#: src/modules/general/onboarding/firstSlide.jsx
+#: src/modules/general/onboarding/secondSlide.jsx
+#: src/modules/general/onboarding/thirdSlide.jsx
+#, fuzzy
+msgid "Go to App"
+msgstr "Téigh Go"
+
+#: src/modules/general/onboarding/secondSlide.jsx
+#: src/modules/general/onboarding/thirdSlide.jsx
+#, fuzzy
+msgid "Scan & Earn"
+msgstr "Scan & Earn"
+
+#: src/modules/general/onboarding/secondSlide.jsx
+#: src/modules/general/onboarding/thirdSlide.jsx
+#, fuzzy
+msgid "Display your QR on each visit"
+msgstr "Taispeáin do QR ar gach cuairt"
+
+#: src/modules/general/qr-code/main.jsx
+#, fuzzy
+msgid "Have a card? "
+msgstr "Bíodh cárta agat? "
+
+#. Interface Title
+#: src/modules/merchant/about/main.jsx
+#: src/modules/your-account/settings/init.jsx
+msgid "About"
+msgstr "Maidir Linne"
+
+#: src/modules/merchant/about/map.jsx
+msgid "Opening hours"
+msgstr "Uaireanta Oscailte"
+
+#: src/modules/merchant/about/map.jsx
+#, fuzzy
+msgid "Directions"
+msgstr "Ordacháin"
+
+#. Interface title
+#: src/modules/merchant/footer/main.jsx
+#: src/modules/merchant/order-and-pay/branch/main.jsx
+#, fuzzy
+msgid "Select a branch"
+msgstr "Roghnaigh brainse"
+
+#. Merchant Footer option
+#: src/modules/merchant/footer/main.jsx
+msgid "Share"
+msgstr "Roinn"
+
+#: src/modules/merchant/footer/main.jsx
+#, fuzzy
+msgid "Copyright © {year} All right reserved"
+msgstr "Cóipcheart © {year} Gach ceart ar cosaint"
+
+#: src/modules/merchant/footer/main.jsx
+#, fuzzy
+msgid "Powered by"
+msgstr "Cumhachtaithe ag"
+
+#: src/modules/merchant/nonLogged.jsx
+#, fuzzy
+msgid "Create   your account"
+msgstr "Cruthaigh do chuntas"
+
+#: src/modules/merchant/nonLogged.jsx
+#, fuzzy
+msgid "Create an account to begin using this app"
+msgstr "Cruthaigh cuntas le tosú ag baint úsáide as an aip seo"
+
+#: src/modules/merchant/nonLogged.jsx
+#, fuzzy
+msgid "Create your account and receive discount and special deals"
+msgstr "Cruthaigh do chuntas agus faigh lascainí agus déileálacha speisialta"
+
+#. Merchant button
+#: src/modules/merchant/nonLogged.jsx
+#, fuzzy
+msgid "Take me to login screen"
+msgstr "Tóg mé chuig an scáileán logála isteach"
+
+#: src/modules/merchant/nonLogged.jsx
+#, fuzzy
+msgid "Create your account and order and pay in this place"
+msgstr "Cruthaigh do chuntas agus d'ordú agus do phá san áit seo"
+
+#. Interface button
+#. Merchant button
+#: src/modules/merchant/nonLogged.jsx src/modules/my-merchants/places/main.jsx
+#, fuzzy
+msgid "Take me to registration screen"
+msgstr "Tóg mé chuig an scáileán cláraithe"
+
+#. Interface button
+#: src/modules/merchant/nonLogged.jsx src/modules/my-merchants/places/main.jsx
+#: src/modules/your-account/create/start/main.jsx
+#, fuzzy
+msgid "I already have an account"
+msgstr "Tá cuntas agam cheana féin"
+
+#: src/modules/merchant/openingTable.jsx
+#: src/modules/merchant/order-and-pay/branch/item.jsx
+#, fuzzy
+msgid "Closed today"
+msgstr "Dúnta inniu"
+
+#: src/modules/merchant/openingTable.jsx
+#, fuzzy
+msgid "Closed, opens at {hour}."
+msgstr "Dúnta, osclaíonn sé ag {hour}."
+
+#: src/modules/merchant/openingTable.jsx
+#, fuzzy
+msgid "Open today, closes at {hour}."
+msgstr "Oscailte inniu, dúntar ag {hour}."
+
+#: src/modules/merchant/openingTable.jsx
+msgid "Sunday"
+msgstr "Dé Domhnaigh"
+
+#: src/modules/merchant/openingTable.jsx
+msgid "Monday"
+msgstr "Dé Luain"
+
+#: src/modules/merchant/openingTable.jsx
+msgid "Tuesday"
+msgstr "Dé Máirt"
+
+#: src/modules/merchant/openingTable.jsx
+msgid "Wednesday"
+msgstr "Dé Céadaoin"
+
+#: src/modules/merchant/openingTable.jsx
+msgid "Thursday"
+msgstr "Déardaoin"
+
+#: src/modules/merchant/openingTable.jsx
+msgid "Friday"
+msgstr "Dé hAoine"
+
+#: src/modules/merchant/openingTable.jsx
+msgid "Saturday"
+msgstr "Dé Sathairn"
+
+#: src/modules/merchant/order-and-pay/branch/main.jsx
+#, fuzzy
+msgid "Open today from {from} to {to}"
+msgstr "Oscail inniu ó {from} go {to}"
+
+#: src/modules/merchant/order-and-pay/branch/main.jsx
+#, fuzzy
+msgid "To start using Order and Pay, you need Topup first."
+msgstr ""
+"Le tosú ag baint úsáide as Ordú agus Pá, tá Topup de dhíth ort ar dtús."
+
+#: src/modules/merchant/order-and-pay/branch/main.jsx
+#, fuzzy
+msgid "Sorry, but topup isn't avaliable to this business."
+msgstr "Tá brón orm, ach ní féidir leis an ngnólacht seo cur leis."
+
+#: src/modules/merchant/order-and-pay/branch/main.jsx
+#: src/modules/merchant/transactions/data.jsx
+#, fuzzy
+msgid "Topup now"
+msgstr "Topup anois"
+
+#: src/modules/merchant/order-and-pay/branch/main.jsx
+#, fuzzy
+msgid "Loading available branches ..."
+msgstr "Ag fáil na mbrainsí atá ar fáil ..."
+
+#. warning message
+#: src/modules/merchant/order-and-pay/branch/main.jsx
+#, fuzzy
+msgid "Branch not found"
+msgstr "Ní bhfuarthas an Brainse"
+
+#: src/modules/merchant/order-and-pay/branch/openingHours.jsx
+#, fuzzy
+msgid "This location will close in {minutes} minutes."
+msgstr "Dúnfaidh an suíomh seo {minutes} nóiméad."
+
+#: src/modules/merchant/order-and-pay/branch/openingHours.jsx
+#, fuzzy
+msgid "Please note that this location will open in {minutes} minutes."
+msgstr "Tabhair faoi deara go n-osclóidh an suíomh seo i nóiméid."
+
+#: src/modules/merchant/order-and-pay/branch/openingHours.jsx
+#, fuzzy
+msgid "This location is currently closed."
+msgstr "Tá an suíomh seo dúnta faoi láthair."
+
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#, fuzzy
+msgid "Pick a time"
+msgstr "Roghnaigh am"
+
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "How would you like to receive your order?"
+msgstr "Cén chaoi ar mhaith leat d'ordú a fháil?"
+
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "Delivery"
+msgstr "Deachadadh"
+
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "Collection"
+msgstr "Bailiúchán"
+
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "What date and time would you like to receive your order?"
+msgstr "Cén dáta agus am ar mhaith leat d'ordú a fháil?"
+
+#. Order and pay Form field
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#, fuzzy
+msgid "Pick a date"
+msgstr "Roghnaigh dáta"
+
+# Pretty sure the English should read “What place will this order be delivered?”
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "What place this order will be delivered?"
+msgstr "Cén áit a sheachadfar an t-ordú seo?"
+
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "Select an address"
+msgstr "Roghnaigh seoladh"
+
+#. Order and pay field
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "Add notes about your order"
+msgstr "Cuir nótaí faoi d'ordú"
+
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#: src/modules/your-account/link-a-card/manage.jsx
+#, fuzzy
+msgid "Confirm"
+msgstr "Dearbhaigh"
+
+#. Order and pay Interface title
+#: src/modules/merchant/order-and-pay/delivery/main.jsx
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "Delivery Options"
+msgstr "Roghanna Ginearálta"
+
+#. Order and pay Form field
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+#, fuzzy
+msgid "date"
+msgstr "dáta"
+
+#. Order and pay Form field
+#: src/modules/merchant/order-and-pay/delivery/main.mobile.jsx
+msgid "hour"
+msgstr "uair"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#, fuzzy
+msgid "Delivery mode"
+msgstr "Modh seachadta"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "Address"
+msgstr "Seoladh"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#, fuzzy
+msgid "Delivery hour"
+msgstr "Uair seachadta"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#, fuzzy
+msgid "Delivery date"
+msgstr "Dáta Seachadta"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "Missing fields:"
+msgstr "Réimsí atá ar iarraidh:"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#, fuzzy
+msgid "Delivery mode: {mode}"
+msgstr "Modh seachadta: {mode}"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "Address: {address}"
+msgstr "Seoladh: {address}"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#, fuzzy
+msgid "Pick up time: {hour}:{minutes} {ampm}"
+msgstr "Am bailithe: {hour}: {minutes} {ampm}"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "Date: {date}"
+msgstr "Dáta: {date}"
+
+#: src/modules/merchant/order-and-pay/delivery/resume.jsx
+#, fuzzy
+msgid "Set delivery options"
+msgstr "Roghanna Ginearálta"
+
+#: src/modules/merchant/order-and-pay/empty.jsx
+#, fuzzy
+msgid ""
+"Order and pay isn't enabled for this client, contact us if you'd like enable "
+"order and pay to your business "
+msgstr ""
+"Ní féidir ordú agus pá a chumasú don chliant seo, déan teagmháil linn más "
+"mian leat ordú agus íoc a chur ar do ghnó "
+
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "Define a Branch"
+msgstr "Sainmhínigh Brainse"
+
+# Pretty sure the English should be “Select Products”
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "Select products1"
+msgstr "Roghnaigh táirgí1"
+
+#. Interface title
+#. Form field
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "Confirm your order"
+msgstr "Deimhnigh d'ordú"
+
+#. Interface title
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "New order"
+msgstr "Ordú nua"
+
+#: src/modules/merchant/order-and-pay/main.jsx
+msgid "Checkout"
+msgstr "Seiceáil Amach"
+
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "Pay by LoyLap"
+msgstr "Íoc le LoyLap"
+
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "Topup {value}"
+msgstr "Topaic {value}"
+
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "Sorry, topup isn't available to this business"
+msgstr "Tá brón orm, níl an topup ar fáil don ghnó seo"
+
+#. Form field
+#: src/modules/merchant/order-and-pay/main.jsx
+#, fuzzy
+msgid "Basket"
+msgstr "Cis"
+
+#: src/modules/merchant/order-and-pay/processing.jsx
+#, fuzzy
+msgid "Unfortunately we can't process your order at this time"
+msgstr "Ar an drochuair ní féidir linn d'ordú a phróiseáil ag an am seo"
+
+#: src/modules/merchant/order-and-pay/processing.jsx
+#, fuzzy
+msgid "We're processing your request, please don't close this window"
+msgstr ""
+"Tá d'iarratas á phróiseáil againn, ná déan an fhuinneog seo a dhúnadh le do "
+"thoil"
+
+#: src/modules/merchant/order-and-pay/processing.jsx
+#: src/modules/merchant/order-and-pay/thank-you/main.jsx
+#, fuzzy
+msgid "Continue"
+msgstr "Ar Aghaidh"
+
+#: src/modules/merchant/order-and-pay/products/basket.jsx
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#: src/modules/merchant/order-and-pay/products/itemModifiers.jsx
+#: src/modules/merchant/order-and-pay/products/search.jsx
+#: src/modules/merchant/order-and-pay/products/total.jsx
+#, fuzzy
+msgid "Total"
+msgstr "Iomlán"
+
+#: src/modules/merchant/order-and-pay/products/basket.jsx
+#, fuzzy
+msgid "Selected ({total})"
+msgstr "Roghnaithe ({total})"
+
+#. Order and pay label
+#: src/modules/merchant/order-and-pay/products/basket.jsx
+#: src/modules/merchant/order-and-pay/products/resume.jsx
+#, fuzzy
+msgid "Select products"
+msgstr "Roghnaigh táirgí"
+
+#: src/modules/merchant/order-and-pay/products/category.jsx
+#, fuzzy
+msgid "Are you sure?"
+msgstr "An bhfuil tú cinnte?"
+
+#: src/modules/merchant/order-and-pay/products/category.jsx
+#, fuzzy
+msgid "confirm"
+msgstr "dearbhaigh"
+
+#: src/modules/merchant/order-and-pay/products/category.jsx
+#: src/modules/your-account/link-a-card/manage.jsx
+msgid "Cancel"
+msgstr "Cealaigh"
+
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#, fuzzy
+msgid "Starting at"
+msgstr "Ag tosú ag"
+
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#, fuzzy
+msgid "Select {x} item(s)"
+msgstr "Roghnaigh {x} ítim(í)"
+
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#, fuzzy
+msgid "Select up to {x} item(s)"
+msgstr "Roghnaigh suas le {x} mír(í)"
+
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#, fuzzy
+msgid "Select at least {x} item(s)"
+msgstr "Roghnaigh ar a laghad {x} mír(í)"
+
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#, fuzzy
+msgid "Select between {x} and {y} item(s)"
+msgstr "Roghnaigh idir {x} agus {y} mír(í)"
+
+#. Interface button
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#: src/modules/your-account/create/start/main.jsx
+msgid "Next"
+msgstr "Ar aghaidh"
+
+#: src/modules/merchant/order-and-pay/products/item.jsx
+#, fuzzy
+msgid "Add to basket"
+msgstr "Cuir sa chiseán é"
+
+#: src/modules/merchant/order-and-pay/products/itemModifiers.jsx
+#, fuzzy
+msgid "Remove"
+msgstr "Bain"
+
+#: src/modules/merchant/order-and-pay/products/itemModifiers.jsx
+#, fuzzy
+msgid "Select"
+msgstr "Roghnaigh"
+
+#. Product search message
+#: src/modules/merchant/order-and-pay/products/main.jsx
+#, fuzzy
+msgid "No product found"
+msgstr "Níor aimsíodh aon táirge"
+
+#: src/modules/merchant/order-and-pay/products/main.jsx
+#, fuzzy
+msgid "Unfortunately this branch doesn't accept order and pay"
+msgstr "Ar an drochuair, ní ghlacann an brainse seo le hordú agus le pá"
+
+#: src/modules/merchant/order-and-pay/products/main.jsx
+#, fuzzy
+msgid "Sorry, no products found"
+msgstr "Tá brón orainn, níor aimsíodh aon táirgí"
+
+#: src/modules/merchant/order-and-pay/products/main.jsx
+#, fuzzy
+msgid "To start your request, please select the branch that you want"
+msgstr "Chun d'iarratas a thosú, roghnaigh an brainse is mian leat"
+
+#: src/modules/merchant/order-and-pay/products/main.jsx
+#, fuzzy
+msgid "To start your using order and pay, you need topup."
+msgstr "Chun do ordú agus do phá a thosú, ní mór duit breisithe a fháil."
+
+#: src/modules/merchant/order-and-pay/products/main.jsx
+#, fuzzy
+msgid "Sorry, topup isn't enabled to this business."
+msgstr "Tá brón orm, níl an topup in ann an gnó seo a dhéanamh."
+
+#. warning message
+#: src/modules/merchant/order-and-pay/products/main.jsx
+#, fuzzy
+msgid "Product not found"
+msgstr "Ní bhfuarthas an táirge"
+
+#. Form field
+#: src/modules/merchant/order-and-pay/products/search.jsx
+#, fuzzy
+msgid "Search the products"
+msgstr "Cuardaigh na táirgí"
+
+#: src/modules/merchant/order-and-pay/products/total.jsx
+#, fuzzy
+msgid "Loading the products list ..."
+msgstr "Ag lódáil liosta na dtáirgí ..."
+
+#: src/modules/merchant/order-and-pay/products/total.jsx
+#, fuzzy
+msgid "Select the products that you desire"
+msgstr "Roghnaigh na táirgí a theastaíonn uait"
+
+#: src/modules/merchant/order-and-pay/thank-you/main.jsx
+#, fuzzy
+msgid "Thank you for your purchase!"
+msgstr "Go raibh maith agat as do cheannach!"
+
+#. merchant app - title section
+#: src/modules/merchant/overview/balance.jsx
+#, fuzzy
+msgid "Your current balance"
+msgstr "Do chomhardú reatha"
+
+#. Search interface - message
+#: src/modules/merchant/overview/campaigns.jsx
+#, fuzzy
+msgid "No offers available yet."
+msgstr "Níl aon tairiscintí ar fáil go fóill."
+
+#: src/modules/merchant/overview/transaction.jsx
+#, fuzzy
+msgid "We didn't find transactions to display."
+msgstr "Níor aimsíomar idirbhearta le taispeáint."
+
+#: src/modules/merchant/overview/transaction.jsx
+#: src/modules/merchant/transactions/data.jsx
+msgid "Yesterday"
+msgstr "Inné"
+
+#. merchant app - title section
+#: src/modules/merchant/overview/transaction.jsx
+#: src/modules/merchant/slider.jsx
+#, fuzzy
+msgid "Recent transactions"
+msgstr "Idirbhearta le déanaí"
+
+#: src/modules/merchant/overview/transaction.jsx
+#, fuzzy
+msgid "Show more"
+msgstr "Taispeáin níos mó"
+
+#: src/modules/merchant/overview/transaction.jsx
+#, fuzzy
+msgid "Show less"
+msgstr "Taispeáin níos lú"
+
+#: src/modules/merchant/slider.jsx
+#, fuzzy
+msgid "Current balance"
+msgstr "Iarmheid reatha"
+
+#: src/modules/merchant/tabs.jsx
+#, fuzzy
+msgid "My account"
+msgstr "Mo chuntas"
+
+#: src/modules/merchant/tabs.jsx
+msgid "Map"
+msgstr "Léarscáil"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Login/Register to Topup"
+msgstr "Logáil isteach / Cláraigh le Topup"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "My payments methods:"
+msgstr "Mo mhodhanna íocaíochta:"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "expiring {date}"
+msgstr "ag dul in éag {date}"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Update payment details"
+msgstr "Nuashonraigh na sonraí íocaíochta"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Add new"
+msgstr "Cuir Ceann Nua Leis"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Add a new payment method"
+msgstr "Cuir modh íocaíochta nua leis"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Not you?"
+msgstr "Ní tusa?"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Select your payment mode and topup value"
+msgstr "Roghnaigh do mhodh íocaíochta agus luach breise"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Save your time; make it automatic."
+msgstr "Sábháil do chuid ama; é a dhéanamh uathoibríoch."
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Disabled"
+msgstr "Díchumasaithe"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid ""
+"With Auto Top-Up your balance will be updated when it falls below {value}."
+msgstr ""
+"Le Breisiú Auto, déanfar do chomhardú a nuashonrú nuair a thiteann sé faoi "
+"bhun {value}."
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid "Manual Top-up"
+msgstr "Breisiú Lámhleabhar"
+
+#: src/modules/merchant/topup/main.jsx
+#, fuzzy
+msgid ""
+"With Auto Top-Up your balance will be updated when it goes below {value}."
+msgstr ""
+"Le Breisiú Auto, déanfar do chomhardú a nuashonrú nuair a théann sé faoi "
+"bhun {value}."
+
+#. warning message
+#: src/modules/merchant/topup/new-card/main.jsx
+#, fuzzy
+msgid "Your card was successfully added"
+msgstr "Cuireadh do chárta leis"
+
+#. credit card success message title
+#: src/modules/merchant/topup/new-card/main.jsx
+msgid "Success"
+msgstr "Rath"
+
+#. Topup Interface title
+#: src/modules/merchant/topup/new-card/main.jsx
+#, fuzzy
+msgid "New Card Options"
+msgstr "Roghanna Cárta Nua"
+
+#: src/modules/merchant/topup/new-card/main.jsx
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "Set new-card options"
+msgstr "Socraigh roghanna cárta nua"
+
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "New Card mode"
+msgstr "Modh Cárta Nua"
+
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "New Card hour"
+msgstr "Uair an Chárta Nua"
+
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "New Card date"
+msgstr "Dáta an Chárta Nua"
+
+#. Topup new-card warning
+#: src/modules/merchant/topup/new-card/resume.jsx
+#, fuzzy
+msgid "New Card mode: {mode}"
+msgstr "Modh Cárta Nua: {mode}"
+
+#. Topup new-card warning
+#: src/modules/merchant/topup/new-card/resume.jsx
+msgid "Hour: {hour}"
+msgstr "Uair: {hour}"
+
+#. Interface title
+#: src/modules/merchant/topup/payment/main.jsx
+#, fuzzy
+msgid "Payment"
+msgstr "Íocaíocht"
+
+#: src/modules/merchant/topup/payment/main.jsx
+#, fuzzy
+msgid "Please fill bellow your payment data"
+msgstr "Líon isteach do chuid sonraí íocaíochta le do thoil"
+
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+#, fuzzy
+msgid "Turn off"
+msgstr "Múch"
+
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+#, fuzzy
+msgid "Disable"
+msgstr "Díchumasaigh"
+
+#. Interface title
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+#, fuzzy
+msgid "Pick a value"
+msgstr "Roghnaigh luach"
+
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+#, fuzzy
+msgid "Select desired Top-up value"
+msgstr "Roghnaigh luach breise inmhianaithe"
+
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+#, fuzzy
+msgid "Select desired auto Top-up amount"
+msgstr "Roghnaigh uathoibríoch inmhianaithe Suim bhreise"
+
+#. Interface button
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+#: src/modules/your-account/create/finish/main.jsx
+msgid "Done"
+msgstr "Déanta"
+
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+msgid "Edit"
+msgstr "Cuir in eagar"
+
+#: src/modules/merchant/topup/pick-a-value/main.jsx
+#, fuzzy
+msgid "Saved"
+msgstr "Sábháil"
+
+#: src/modules/merchant/topup/thank-you/main.jsx
+#, fuzzy
+msgid "You've topped up your account with {value}"
+msgstr "Chuir tú luach do chuntas le {value}"
+
+#: src/modules/merchant/transactions/data.jsx
+#: src/modules/merchant/transactions/row.jsx
+#, fuzzy
+msgid "1 stamp"
+msgstr "1 stampa"
+
+#: src/modules/merchant/transactions/data.jsx
+#: src/modules/merchant/transactions/row.jsx
+#, fuzzy
+msgid "{total} stamps"
+msgstr "{total} stampaí"
+
+#: src/modules/merchant/transactions/data.jsx
+#, fuzzy
+msgid ""
+"You have no transactions with {businessName}. Top-up now to get started."
+msgstr ""
+"Níl aon idirbhearta agat le {businessName}. Breise anois chun tús a chur "
+"leis."
+
+#: src/modules/merchant/transactions/data.jsx
+#: src/modules/your-account/create/link-a-card/register/main.jsx
+#: src/modules/your-account/link-a-card/add.jsx
+#, fuzzy
+msgid "Link your card"
+msgstr "Nasc do chárta"
+
+#: src/modules/merchant/transactions/data.jsx
+#, fuzzy
+msgid "Download"
+msgstr "Íoslódáil"
+
+#. Merchant transaction history
+#: src/modules/merchant/transactions/row.jsx
+#, fuzzy
+msgid "Earned"
+msgstr "Tuillte"
+
+#. Merchant transaction history
+#: src/modules/merchant/transactions/row.jsx
+#, fuzzy
+msgid "Spent"
+msgstr "Caitheadh"
+
+#: src/modules/merchant/transactions/row.jsx
+#, fuzzy
+msgid "at"
+msgstr "ag"
+
+#: src/modules/my-merchants/places/main.jsx
+#, fuzzy
+msgid ""
+"You dont't have enrolled in any merchants yet, start searching for your "
+"favorite merchants "
+msgstr ""
+"Nach bhfuil tú cláraithe i gceannaithe ar bith go fóill, tús a chuardach le "
+"haghaidh do ceannaithe is fearr leat "
+
+#: src/modules/my-merchants/places/main.jsx
+#, fuzzy
+msgid "To view your merchants, first you have to sign up "
+msgstr "Chun breathnú ar do ceannaithe, ar dtús caithfidh tú clárú "
+
+#. My merchant tab title
+#: src/modules/my-merchants/tabs.jsx src/modules/search/tabs.jsx
+#, fuzzy
+msgid "Places"
+msgstr "Áiteanna"
+
+#. My merchant tab title
+#: src/modules/my-merchants/tabs.jsx src/modules/search/tabs.jsx
+#, fuzzy
+msgid "Special offers"
+msgstr "Tairiscintí speisialta"
+
+#. Search field
+#: src/modules/search/home/main.jsx
+#, fuzzy
+msgid "Recent Searches"
+msgstr "Cuardaigh le déanaí"
+
+#. Search clear
+#: src/modules/search/home/main.jsx
+#, fuzzy
+msgid "clear"
+msgstr "soiléir"
+
+#. Search field
+#: src/modules/search/home/main.jsx
+#, fuzzy
+msgid "Search merchants"
+msgstr "Ceannaitheoirí cuardaigh"
+
+#: src/modules/search/results/main.jsx
+#, fuzzy
+msgid "Sorry, your search didn't return any results "
+msgstr "Tá brón orm, níor sheol do chuardach aon torthaí "
+
+#. Search filter option
+#: src/modules/search/results/main.jsx
+#, fuzzy
+msgid "Enrolled"
+msgstr "Clárú"
+
+#. Search filter option
+#: src/modules/search/results/main.jsx
+#, fuzzy
+msgid "Most relevant"
+msgstr "Is ábhartha"
+
+#. Search filter option
+#: src/modules/search/results/main.jsx
+#, fuzzy
+msgid "Closest"
+msgstr "Is cóngaraí"
+
+#: src/modules/search/results/main.jsx
+#, fuzzy
+msgid "Search results for '{searchItem}'"
+msgstr "Torthaí cuardaigh le haghaidh '{searchItem}'"
+
+#. Interface Title
+#. Interface link
+#: src/modules/your-account/cancel/main.jsx
+#: src/modules/your-account/edit/profile/main.jsx
+#: src/modules/your-account/settings/security.jsx
+#, fuzzy
+msgid "Cancel your account"
+msgstr "Cealaigh do chuntas"
+
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "Are you sure that you want to cancel your account?"
+msgstr "An bhfuil tú cinnte gur mian leat do chuntas a chur ar ceal?"
+
+#. Interface subtitle
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "Before you go please tell us the reason"
+msgstr "Sula dtéann tú, inis dúinn an chúis"
+
+#. Form field
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "New look doesn't appeal to me"
+msgstr "Ní tharraingfidh cuma nua orm"
+
+#. Form field
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "I want more features"
+msgstr "Ba mhaith liom níos mó gnéithe a fháil"
+
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "I use other payments services more often"
+msgstr "Úsáidim seirbhísí íocaíochta eile níos minice"
+
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "I get too many emails/notifications"
+msgstr "Faighim an iomarca ríomhphoist / fógraí"
+
+#. Form field
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "Your password"
+msgstr "Do phasfhocal"
+
+#. Interface button
+#: src/modules/your-account/cancel/main.jsx
+#, fuzzy
+msgid "Cancel my account"
+msgstr "Cealaigh mo chuntas"
+
+#. Form field validation
+#: src/modules/your-account/create/confirm/main.jsx
+#, fuzzy
+msgid "Your username is incorrect"
+msgstr "Tá do ainm úsáideora mícheart"
+
+#. Interface title
+#: src/modules/your-account/create/confirm/main.jsx
+msgid "Confirm your account"
+msgstr "Deimhnigh do chuntas"
+
+#: src/modules/your-account/create/confirm/main.jsx
+#, fuzzy
+msgid "Just enter the 4 digit code we sent to {email} and you're done."
+msgstr ""
+"Cuir isteach an cód 4 dhigit a chuir muid chuig {email} agus tá tú déanta."
+
+#. Interface button
+#: src/modules/your-account/create/confirm/main.jsx
+#, fuzzy
+msgid "Activate your account"
+msgstr "Gníomhachtaigh do chuntas"
+
+#: src/modules/your-account/create/finish/main.jsx
+msgid "Unlink"
+msgstr "Bain Cárta"
+
+#. Interface button
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid "Register with Facebook"
+msgstr "Cláraigh le Facebook"
+
+#. Form field validation
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid "This email is already registered"
+msgstr "Tá an ríomhphost seo cláraithe cheana féin"
+
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid ""
+"This  service is powered by LoyLap. By registering, you hereby agree to the "
+msgstr ""
+"Tá an tseirbhís seo faoi thiomáint ag LoyLap. Trí chlárú, aontaíonn tú leis "
+"seo "
+
+#: src/modules/your-account/create/finish/main.jsx
+#: src/modules/your-account/create/start/main.jsx
+msgid "terms of service"
+msgstr "tearmaí seirbhís"
+
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid " & "
+msgstr " & "
+
+#: src/modules/your-account/create/finish/main.jsx
+#: src/modules/your-account/create/start/main.jsx
+#, fuzzy
+msgid "privacy statement"
+msgstr "polasaí príobháideachais"
+
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid "Registration"
+msgstr "Clárú"
+
+#. Form field
+#: src/modules/your-account/create/finish/main.jsx
+#: src/modules/your-account/create/start/main.jsx
+msgid "Name"
+msgstr "Anim"
+
+#. Form field
+#: src/modules/your-account/create/finish/main.jsx
+msgid "E-mail"
+msgstr "R-phost"
+
+#. Form field
+#: src/modules/your-account/create/finish/main.jsx
+msgid "New password"
+msgstr "Pasfhocal Nua"
+
+#. Form field
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid "Confirm your new password"
+msgstr "Deimhnigh do phasfhocal nua"
+
+#. Form option
+#: src/modules/your-account/create/finish/main.jsx
+#, fuzzy
+msgid "Already have an account? Log in"
+msgstr "Tá cuntas agat cheana féin? Logáil isteach"
+
+#: src/modules/your-account/create/link-a-card/question/main.jsx
+#, fuzzy
+msgid "Do you have a LoyLap Card?"
+msgstr "An bhfuil Cárta LoyLap agat?"
+
+#: src/modules/your-account/create/link-a-card/question/main.jsx
+#, fuzzy
+msgid "Link your LoyLap Card with your account and make payments easier"
+msgstr "Nasc do Chárta LoyLap le do chuntas agus déan íocaíochtaí níos éasca"
+
+#. Interface button
+#: src/modules/your-account/create/link-a-card/question/main.jsx
+#, fuzzy
+msgid "Yes, link with my account"
+msgstr "Sea, ceangail le mo chuntas"
+
+#. Interface button
+#: src/modules/your-account/create/link-a-card/question/main.jsx
+#, fuzzy
+msgid "Skip"
+msgstr "Scipeáil"
+
+#. Form field
+#: src/modules/your-account/create/link-a-card/register/main.jsx
+#: src/modules/your-account/link-a-card/add.jsx
+#, fuzzy
+msgid "Card number"
+msgstr "Uimhir chárta"
+
+#. Form field
+#: src/modules/your-account/create/link-a-card/register/main.jsx
+#: src/modules/your-account/link-a-card/add.jsx
+#, fuzzy
+msgid "3 digit pin"
+msgstr "Bioráin 3 dhigit"
+
+#: src/modules/your-account/create/link-a-card/register/main.jsx
+#: src/modules/your-account/link-a-card/add.jsx
+#, fuzzy
+msgid "Link your LoyLap Card"
+msgstr "Nasc do Chárta LoyLap"
+
+#. Interface button
+#: src/modules/your-account/create/link-a-card/register/main.jsx
+#: src/modules/your-account/link-a-card/add.jsx
+#, fuzzy
+msgid "Add card"
+msgstr "Cuir cárta leis"
+
+#: src/modules/your-account/create/link-a-card/register/main.jsx
+#: src/modules/your-account/link-a-card/add.jsx
+#, fuzzy
+msgid "Insert manually"
+msgstr "Cuir isteach de láimh é"
+
+#. Interface button
+#: src/modules/your-account/create/link-a-card/register/main.jsx
+#: src/modules/your-account/link-a-card/add.jsx
+#, fuzzy
+msgid "Scan card"
+msgstr "Scan cárta"
+
+#. Form field validation
+#: src/modules/your-account/create/start/main.jsx
+#, fuzzy
+msgid "This phone is already registered"
+msgstr "Tá an fón seo cláraithe cheana féin"
+
+#: src/modules/your-account/create/start/main.jsx
+#, fuzzy
+msgid "Joining us you accept the "
+msgstr "Glacann tú linn go nglacann tú leis "
+
+#: src/modules/your-account/create/start/main.jsx
+#, fuzzy
+msgid " and our "
+msgstr " agus ár "
+
+#: src/modules/your-account/create/start/main.jsx
+#, fuzzy
+msgid "Welcome to LoyLap App"
+msgstr "Fáilte go dtí App LoyLap"
+
+#: src/modules/your-account/create/start/main.jsx
+#, fuzzy
+msgid "Earn redeem and enjoy at your favourite stores"
+msgstr ""
+"Thuilleamh fhuascailt agus taitneamh a bhaint as ag do siopaí is fearr leat"
+
+#. Form field
+#: src/modules/your-account/edit/password/main.jsx
+#, fuzzy
+msgid "Current password"
+msgstr "Pasfhocal reatha"
+
+#. Form field
+#: src/modules/your-account/edit/password/main.jsx
+#, fuzzy
+msgid "Logout all places that I'm logged in"
+msgstr "Logáil isteach gach áit a bhfuil mé logáilte isteach"
+
+#. Interface button
+#: src/modules/your-account/edit/password/main.jsx
+#, fuzzy
+msgid "Update Password"
+msgstr "Nuashonraigh an Pasfhocal"
+
+#. Interface Title
+#: src/modules/your-account/edit/password/main.jsx
+#, fuzzy
+msgid "Edit password"
+msgstr "Cuir focal faire in eagar"
+
+#. Interface link
+#. Interface Title
+#: src/modules/your-account/edit/profile/main.jsx
+#: src/modules/your-account/settings/security.jsx
+#, fuzzy
+msgid "Connect with Facebook"
+msgstr "Ceangail le Facebook"
+
+#. Interface link
+#. Interface Title
+#: src/modules/your-account/edit/profile/main.jsx
+#: src/modules/your-account/settings/security.jsx
+#, fuzzy
+msgid "Disconnect from Facebook"
+msgstr "Dícheangail ó Facebook"
+
+#. Form field validation
+#: src/modules/your-account/edit/profile/main.jsx
+#, fuzzy
+msgid "Must be a valid email"
+msgstr "Ní mór gur ríomhphost bailí é"
+
+#. Form field
+#: src/modules/your-account/edit/profile/main.jsx
+msgid "Your name"
+msgstr "D’ainm"
+
+# Would Fón be more suitable?
+#: src/modules/your-account/edit/profile/main.jsx
+#, fuzzy
+msgid "Phone"
+msgstr "Teileafón"
+
+#. Form field option
+#: src/modules/your-account/edit/profile/main.jsx
+msgid "Female"
+msgstr "Baineann"
+
+#. Form field option
+#: src/modules/your-account/edit/profile/main.jsx
+msgid "Male"
+msgstr "Fireann"
+
+#. Form field option
+#: src/modules/your-account/edit/profile/main.jsx
+#, fuzzy
+msgid "Other"
+msgstr "Eile"
+
+#. Form field
+#: src/modules/your-account/edit/profile/main.jsx
+#, fuzzy
+msgid "Born date"
+msgstr "Dáta breithe"
+
+#. Interface link
+#. Interface Title
+#: src/modules/your-account/edit/profile/main.jsx
+#: src/modules/your-account/settings/security.jsx
+#, fuzzy
+msgid "Logout from all places"
+msgstr "Logáil isteach ó gach áit"
+
+#. Interface link
+#. Interface Title
+#: src/modules/your-account/edit/profile/main.jsx
+#: src/modules/your-account/settings/security.jsx
+#, fuzzy
+msgid "Update your password"
+msgstr "Nuashonraigh do phasfhocal"
+
+#. Interface title
+#: src/modules/your-account/edit/profile/main.jsx
+#, fuzzy
+msgid "Edit profile"
+msgstr "Cuir próifíl in eagar"
+
+#. Interface button
+#: src/modules/your-account/edit/profile/main.jsx
+msgid "Save"
+msgstr "Sábháil"
+
+#: src/modules/your-account/link-a-card/manage.jsx
+#, fuzzy
+msgid "Are you sure that you want unlink this card?"
+msgstr "An bhfuil tú cinnte go dteastaíonn uait an cárta seo a dhícheangal?"
+
+#: src/modules/your-account/link-a-card/manage.jsx
+#, fuzzy
+msgid "Wait a moment ..."
+msgstr "Fan nóiméad ..."
+
+#: src/modules/your-account/link-a-card/manage.jsx
+#, fuzzy
+msgid "Manage your cards"
+msgstr "Bainistigh do chártaí"
+
+#: src/modules/your-account/link-a-card/manage.jsx
+#, fuzzy
+msgid ""
+"If you do not have a QR code, please contact your Merchant to link your card"
+msgstr ""
+"Mura bhfuil cód QR agat, déan teagmháil le do Cheannaí le do chárta a nascadh"
+
+#. Interface button
+#: src/modules/your-account/link-a-card/manage.jsx
+#, fuzzy
+msgid "Add a new card"
+msgstr "Cuir cárta nua leis"
+
+#. Form field
+#: src/modules/your-account/profile/header.jsx
+#, fuzzy
+msgid "Edit Profile"
+msgstr "Cuir Próifíl in Eagar"
+
+#. Form field
+#: src/modules/your-account/profile/main.jsx
+#, fuzzy
+msgid "Basic data"
+msgstr "Sonraí bunúsacha"
+
+#. Form field
+#: src/modules/your-account/profile/main.jsx
+#, fuzzy
+msgid "Update password"
+msgstr "Nuashonraigh an focal faire"
+
+#. Form field
+#: src/modules/your-account/profile/main.jsx
+#, fuzzy
+msgid "Other options"
+msgstr "Roghanna eile"
+
+#: src/modules/your-account/settings/init.jsx
+#, fuzzy
+msgid "outdated"
+msgstr "as dáta"
+
+#: src/modules/your-account/settings/init.jsx
+#, fuzzy
+msgid "update"
+msgstr "nuashonrú"
+
+#: src/modules/your-account/settings/init.jsx
+#, fuzzy
+msgid "updated"
+msgstr "nuashonraithe"
+
+#. Interface Title
+#. Form field
+#: src/modules/your-account/settings/init.jsx
+#: src/modules/your-account/settings/main.jsx
+#: src/modules/your-account/settings/notifications.jsx
+#, fuzzy
+msgid "Notifications"
+msgstr "Fógraí"
+
+#. Interface Title
+#. Form field
+#: src/modules/your-account/settings/init.jsx
+#: src/modules/your-account/settings/main.jsx
+#: src/modules/your-account/settings/permissions.jsx
+#, fuzzy
+msgid "Permissions"
+msgstr "Ceadanna"
+
+#. Interface Title
+#: src/modules/your-account/settings/init.jsx
+#, fuzzy
+msgid "Security/privacy"
+msgstr "Slándáil / príobháideachas"
+
+#. Interface Title
+#. Form field
+#: src/modules/your-account/settings/init.jsx
+#: src/modules/your-account/settings/main.jsx
+#, fuzzy
+msgid "Language"
+msgstr "Teanga"
+
+#. Interface Title
+#: src/modules/your-account/settings/init.jsx
+#, fuzzy
+msgid "Restore app"
+msgstr "Athchóirigh an feidhmchlár"
+
+#. Interface Title
+#: src/modules/your-account/settings/init.jsx
+#, fuzzy
+msgid "Version"
+msgstr "Leagan"
+
+#. Interface Title
+#: src/modules/your-account/settings/language.jsx
+#, fuzzy
+msgid "English"
+msgstr "Béarla"
+
+#. Interface Title
+#: src/modules/your-account/settings/language.jsx
+#, fuzzy
+msgid "Spanish"
+msgstr "Spainnis"
+
+#. Interface Title
+#: src/modules/your-account/settings/language.jsx
+#, fuzzy
+msgid "German"
+msgstr "Gearmáinis"
+
+#. Interface Title
+#: src/modules/your-account/settings/language.jsx
+msgid "Irish"
+msgstr "Gaeilge"
+
+#. Interface Title
+#: src/modules/your-account/settings/language.jsx
+#, fuzzy
+msgid "Language / privacy"
+msgstr "Teanga / príobháideachas"
+
+#. Form field
+#: src/modules/your-account/settings/main.jsx
+#, fuzzy
+msgid "Manage cards"
+msgstr "Bainistigh cártaí"
+
+#. Interface Title
+#: src/modules/your-account/settings/notifications.jsx
+#, fuzzy
+msgid "Emails"
+msgstr "Ríomhphoist"
+
+#: src/modules/your-account/settings/notifications.jsx
+#, fuzzy
+msgid ""
+"We send information about your account to your email like your balance and "
+"partners special offers"
+msgstr ""
+"Cuirimid faisnéis faoi do chuntas chuig do r-phost mar do chuid iarmhéid "
+"agus tairiscintí speisialta comhpháirtithe"
+
+#. Interface Title
+#: src/modules/your-account/settings/notifications.jsx
+#, fuzzy
+msgid "SMS"
+msgstr "SMS"
+
+#: src/modules/your-account/settings/notifications.jsx
+#, fuzzy
+msgid "Receive your account confirmation code, special offers and others"
+msgstr ""
+"Faigh cód deimhnithe do chuntais, tairiscintí speisialta agus daoine eile"
+
+#. Interface Title
+#: src/modules/your-account/settings/notifications.jsx
+#, fuzzy
+msgid "Push notifications"
+msgstr "Fógraí Brúigh"
+
+#: src/modules/your-account/settings/notifications.jsx
+#, fuzzy
+msgid ""
+"Receive messages from closer partners from your location, LoyLap app message "
+"and others"
+msgstr ""
+"Faigh teachtaireachtaí ó chomhpháirtithe níos dlúithe ó do shuíomh, "
+"teachtaireacht app LoyLap agus daoine eile"
+
+#. Interface Title
+#: src/modules/your-account/settings/permissions.jsx
+#, fuzzy
+msgid "Gallery / camera"
+msgstr "Gailearaí / ceamara"
+
+#: src/modules/your-account/settings/permissions.jsx
+#, fuzzy
+msgid "We use to take your profile photo and link a card with your account"
+msgstr ""
+"Úsáidimid chun do ghrianghraf próifíle a ghlacadh agus chun cárta a nascadh "
+"le do chuntas"
+
+#. Interface Title
+#: src/modules/your-account/settings/permissions.jsx
+#, fuzzy
+msgid "GPS"
+msgstr "GPS"
+
+#: src/modules/your-account/settings/permissions.jsx
+#, fuzzy
+msgid "Discover closer partners from your location"
+msgstr "Faigh amach comhpháirtithe níos dlúithe ó do shuíomh"
+
+#. Interface Title
+#: src/modules/your-account/settings/security.jsx
+#, fuzzy
+msgid "Privacy statement"
+msgstr "Ráiteas príobháideachais"
+
+#. Interface Title
+#: src/modules/your-account/settings/security.jsx
+msgid "Terms of service"
+msgstr "Téarmaí Seirbhíse"
+
+#. Interface Title
+#: src/modules/your-account/settings/security.jsx
+#, fuzzy
+msgid "Security / privacy"
+msgstr "Slándáil / príobháideachas"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid " and earned a {formatedBonus} bonus"
+msgstr " agus thuill bónas {formatedBonus}"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "& earn a %@ bonus"
+msgstr "& %@ bonus a thuilleamh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "-{amount} stamp"
+msgstr "-{amount} stampa"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "-{amount} stamps"
+msgstr "-{amount} stampaí"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "{amount} stamp"
+msgstr "{amount} stampa"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "{amount} stamps"
+msgstr "{amount} stampaí"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "{remaining} more stamps to earn a {item}"
+msgstr "{remaining} stampaí eile chun {item}"
+
+#: Localizable.strings (Irish)
+msgid "Allowed to location Access"
+msgstr "Rochtain Suímh Ceadaithe"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Auto Top Up is Off"
+msgstr "Tá Breisiú Uathoibríoch as"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Automatically top up by %@ when your balance falls below %@"
+msgstr "Cuir suas go huathoibríoch le% @ nuair a thiteann do chomhardú faoi% @"
+
+#: Localizable.strings (Irish)
+msgid "Balance"
+msgstr "Iarmhéid"
+
+#: Localizable.strings (Irish)
+msgid "Brand Logo URL Unresolvable"
+msgstr "URL Lógó Bhranda gan réiteach"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Camera"
+msgstr "Ceamara"
+
+#: Localizable.strings (Irish)
+msgid "Card Code & CVV"
+msgstr "Cód Cárta & CVV"
+
+#: Localizable.strings (Irish)
+msgid "Card Linking"
+msgstr "Nasc Cárta"
+
+#: Localizable.strings (Irish)
+msgid "Careful Now"
+msgstr "Seachain Ansin"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Check your email"
+msgstr "Seiceáil ar do r-phost"
+
+#. Interface Title
+#: Localizable.strings (Irish)
+msgid "Closed"
+msgstr "Dúnta"
+
+#: Localizable.strings (Irish)
+msgid "CLOSED at"
+msgstr "DÚNTA ag"
+
+#: Localizable.strings (Irish)
+msgid "CLOSED, opens at"
+msgstr "DÚNTA, oscailte go dtí"
+
+#: Localizable.strings (Irish)
+msgid "Could Not Send Email"
+msgstr "Níor Seoladh An R-phost"
+
+#: Localizable.strings (Irish)
+msgid "CVV"
+msgstr "CVV"
+
+#: Localizable.strings (Irish)
+msgid "Dev Menu"
+msgstr "Clár Forbróra"
+
+#: Localizable.strings (Irish)
+msgid "Do you wish to Logout?"
+msgstr "Logáil Amach?"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Edit Auto Top Up: %@"
+msgstr "Cuir Breiseán Auto in Eagar: %@"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Email Already Verified"
+msgstr "Fíoraíodh Ríomhphost cheana féin"
+
+#: Localizable.strings (Irish)
+msgid "Email is Empty"
+msgstr "R-phost Folamh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Enter Card Code"
+msgstr "Cuir isteach Cód an Chárta"
+
+#: Localizable.strings (Irish)
+msgid "Enter CVV"
+msgstr "Cuir isteach CVV"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Enter Date of Birth"
+msgstr "Cuir isteach Dáta Breithe"
+
+#: Localizable.strings (Irish)
+msgid "Enter your email or LoyLap ID to reset your password"
+msgstr ""
+"Cuir isteach do r-phost agus cuirfimid r-phost chugat le treoracha "
+"athshocraithe pasfhocail"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Error"
+msgstr "Earráid"
+
+#: Localizable.strings (Irish)
+msgid "Failed to link Card"
+msgstr "Theip ar nascadh Cárta"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Failed to unlink card"
+msgstr "Níorbh fhéidir an cárta a dhícheangal"
+
+#: Localizable.strings (Irish)
+msgid "Forgot Password"
+msgstr "Pasfhocal Dearmadta"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: Localizable.strings (Irish)
+msgid "History"
+msgstr "History"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Legal"
+msgstr "Dlí"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+#| msgid "Link a card"
+msgid "Link LoyLap Card"
+msgstr "Nasc Cárta"
+
+#: Localizable.strings (Irish)
+msgid ""
+"LoyLap requires Birthday\n"
+"\n"
+" Navigate to Facebook Settings -> Select Apps -> Remove LoyLap and log in "
+"here again."
+msgstr ""
+"Dáta Breithe de dhíth ar LoyLap. Nasclean go Socruithe Facebook -> Roghnaigh "
+"Feidhmchláir -> Bain LoyLap agus logáil isteach arís anseo."
+
+#: Localizable.strings (Irish)
+msgid ""
+"LoyLap requires Email\n"
+"\n"
+" Navigate to Facebook Settings -> Select Apps -> Remove LoyLap and log in "
+"here again."
+msgstr ""
+"R-phost de dhíth ar LoyLap. Nasclean go Socruithe Facebook -> Roghnaigh "
+"Feidhmchláir -> Bain LoyLap agus logáil isteach arís anseo."
+
+#: Localizable.strings (Irish)
+msgid "Mail Cancelled"
+msgstr "Post Curtha ar Ceal"
+
+#: Localizable.strings (Irish)
+msgid "Mail Saved"
+msgstr "Post sábháilte"
+
+#: Localizable.strings (Irish)
+msgid "Mail Sent"
+msgstr "Post seolta"
+
+#: Localizable.strings (Irish)
+msgid "Message Sent Failure"
+msgstr "Theip ar an seoladh poist"
+
+#: Localizable.strings (Irish)
+msgid "Name is Empty"
+msgstr "Ainm Folamh"
+
+#: Localizable.strings (Irish)
+msgid "New Balance"
+msgstr "Iarmhéid Nua"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "No valid Payment details associated with your account."
+msgstr "Níl aon sonraí íocaíochta bailí a bhaineann le do chuntas."
+
+#: Localizable.strings (Irish)
+msgid "OK"
+msgstr "Tá"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "OPEN till"
+msgstr "OSCAILTE go dtí"
+
+#: Localizable.strings (Irish)
+msgid "Password is Empty"
+msgstr "Athshocraigh Pasfhocal"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+#| msgid "Password"
+msgid "Password Reset"
+msgstr "Pasfhocal"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Phone Already Verified"
+msgstr "Fón a Deimhníodh cheana féin"
+
+#: Localizable.strings (Irish)
+msgid "Photo Library"
+msgstr "Leabharlann pictúr"
+
+#: Localizable.strings (Irish)
+msgid "Please enter code on the reverse of the gift card:"
+msgstr ""
+"Cuir isteach an cód ar an taobh eile den Chárta Bronntanais le do thoil:"
+
+#: Localizable.strings (Irish)
+msgid "Privacy Statement"
+msgstr "Polasaí Príobháideachais"
+
+#: Localizable.strings (Irish)
+msgid "Promotions"
+msgstr "Promóisin"
+
+#: Localizable.strings (Irish)
+msgid "Restricted Access to location"
+msgstr "Rochtain Srianta ar an suíomh"
+
+#: Localizable.strings (Irish)
+msgid "Scan Gift Card"
+msgstr "Scan Cárta Bronntanais"
+
+#: Localizable.strings (Irish)
+msgid "Select Brand"
+msgstr "Athraigh Ceannaí"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Setup Auto Top Up"
+msgstr "Breisiú Breiseáin ar Auto Setup"
+
+#: Localizable.strings (Irish)
+msgid "Status not determined"
+msgstr "Stádas gan a bheith deimhnithe"
+
+#: Localizable.strings (Irish)
+msgid "Submit"
+msgstr "Cuir Isteach"
+
+#: Localizable.strings (Irish)
+msgid "Submit CVV"
+msgstr "Cuir CVV ar fáil"
+
+#: Localizable.strings (Irish)
+msgid "Switch Brand"
+msgstr "Athraigh Ceannaí"
+
+#: Localizable.strings (Irish)
+msgid "Terms of Service"
+msgstr "Tearmaí Seirbhís"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "to"
+msgstr "chun"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid ""
+"To enable Auto Top Up you must issue a Top Up to validate payment details"
+msgstr ""
+"Le Breisiú Auto a chumasú caithfidh tú Breisiú a eisiúint chun sonraí "
+"íocaíochta a bhailíochtú"
+
+# Alternative Translation Povided: Breisiú
+#: Localizable.strings (Irish)
+msgid "Top Up"
+msgstr "Breis Creidmheasa"
+
+# POEdit Error is Wrong.
+#: Localizable.strings (Irish)
+msgid "Top up by %@"
+msgstr "Cuir %@ sa breis i do chuntas"
+
+#: Localizable.strings (Irish)
+msgid "Type to search ..."
+msgstr "Cuardach …"
+
+#: Localizable.strings (Irish)
+msgid "Unlinked Card %@"
+msgstr "Cárta Scartha %@"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Unlinking final card code isn't allowed"
+msgstr "Ní cheadaítear cód dícheangail deiridh an chárta"
+
+# Alternative Translation Found: Láithreach
+#: Localizable.strings (Irish)
+msgid "Upfront"
+msgstr "Breisigh"
+
+#: Localizable.strings (Irish)
+msgid "User denied access to location"
+msgstr "Rochtain Suímh diúltaithe don úsáideoir"
+
+#: Localizable.strings (Irish)
+msgid "Validate Number"
+msgstr "Uimhir a bailíochtaigh"
+
+#: Localizable.strings (Irish)
+msgid "Warning"
+msgstr "Rabhadh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid ""
+"We store your email until such a time as you ask us to delete it, we use "
+"your email to reset your password and verify it is a real email and we share "
+"the address with the Merchants you frequent with LoyLap. You can view and "
+"update what information we store on you from either our customer portal "
+"online or from our mobile apps on either Google or Apples app stores"
+msgstr ""
+"Déanaimid do r-phost a stóráil go dtí go n-iarrann tú orainn é a scriosadh, "
+"úsáidimid do r-phost chun do phasfhocal a athshocrú agus fíor-r-phost é a "
+"fhíorú agus roinnimid an seoladh leis na Ceannaithe a mbíonn tú ag obair leo "
+"le LoyLap. Is féidir leat an fhaisnéis a choinnímid ort a fheiceáil agus a "
+"nuashonrú ónár dtairseach custaiméirí ar líne nó ónár n-aipeanna soghluaiste "
+"ar siopaí app Google nó Apples"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid ""
+"We store your name until such a time as you ask us to delete it, we use your "
+"name to identify your account and we share it with the Merchants you "
+"frequent with LoyLap. You can view and update what information we store on "
+"you from either our customer portal online or from our mobile apps on either "
+"Google or Apples app stores."
+msgstr ""
+"Déanaimid d'ainm a stóráil go dtí go n-iarrann tú orainn é a scriosadh, "
+"bainimid úsáid as d'ainm chun do chuntas a aithint agus roinnimid é leis na "
+"Ceannaithe a bhíonn tú ag obair le LoyLap. Is féidir leat an fhaisnéis a "
+"choinnímid ort a fheiceáil agus a nuashonrú ónár dtairseach custaiméirí ar "
+"líne nó ónár n-aipeanna móibíleacha ar siopaí app Google nó Apples."
+
+# Central Bank’s proffessional translator specificed “Tá”as the correct translation. DAA translator specified the current one “Ba mhaith liom”.
+#: Localizable.strings (Irish)
+msgid "Yes"
+msgstr "Tá"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "You can redeem {evenMultiple} {item}s"
+msgstr "Is féidir leat {itemMultiple} {item} s a fhuascailt"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "You can redeem {multiple} {item}s"
+msgstr "Is féidir leat {multiple} {item} a fhuascailt"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "You can redeem a {item}"
+msgstr "Is féidir leat {item} a fhuascailt"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid ""
+"You need to consent to the LoyLap Terms of Service and Priacy Policy by "
+"asserting the switch under the 'Back' button"
+msgstr ""
+"Ní mór duit toiliú le Téarmaí Seirbhíse agus Polasaí Príobháideachta LoyLap "
+"tríd an lasc a dhearbhú faoin gcnaipe 'Ar ais'"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "You'll receive a %@ bonus with each top up."
+msgstr "Gheobhaidh tú% @ bónas le gach breisiú."
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "You've no transactions with {brandName}"
+msgstr "Níl aon idirbhearta agat le {brandName}"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "You've successfully linked acccount number {cardNum} with your own"
+msgstr ""
+"D'éirigh leat nasc a dhéanamh idir d’iarratas agus uimhir chárta (cardNum}) "
+"leat féin"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "You've sucessfully topped up with {brandName} by {topUpAmount}"
+msgstr "Tá {brandName} agat le {topUpAmount}"
+
+#: Localizable.strings (Irish)
+msgid ""
+"Your device could not send e-mail.  Please check e-mail configuration and "
+"try again."
+msgstr ""
+"Níor sheol do ghléas an r-phost. Deimhnigh socruithe r-phoist agus bain "
+"triail eile as."
+
+#: Localizable.strings (Irish)
+#, fuzzy
+#| msgid "LoyLap Rewards"
+msgid "Campaign Rewards"
+msgstr "Luaíochtaí LoyLap"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Digital Gift Card"
+msgstr "Cárta Bronntanais Dhigitigh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Digital Gift Error"
+msgstr "Earráid Bronntanais Dhigitigh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+#| msgid "Email is Empty"
+msgid "Email Gift"
+msgstr "R-phost Folamh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "From Email Missing"
+msgstr "Ó Ríomhphost ar Iarraidh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "From Name Missing"
+msgstr "Ó Ainm ar Iarraidh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Navigate to Reward Redemptions?"
+msgstr "Déan nascleanúint ar Dhíolúintí Luaíochta?"
+
+#: Localizable.strings (Irish)
+msgid "Not Now"
+msgstr "Ní tusa"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "Redeem Now"
+msgstr "Ceannaigh Anois"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+#| msgid "Terms &amp; Conditions"
+msgid "Terms & Conditions"
+msgstr "Téarmaí &amp; Coinníollacha"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid "To Email Missing"
+msgstr "Chun ríomhphost a iarraidh"
+
+#: Localizable.strings (Irish)
+msgid "To Name Missing"
+msgstr "Chun Ainm ar Iarraidh"
+
+#: Localizable.strings (Irish)
+#, fuzzy
+msgid ""
+"We salt and hash your password using bcrypt and store it until such a time "
+"as you ask us to delete it, your password secures your account. You can "
+"update your password by vising the Login and using the resetPassword "
+"function."
+msgstr ""
+"Déanaimid do phasfhocal a shalann agus a fhuarú ag úsáid bcrypt agus é a "
+"stóráil go dtí go n-iarrann tú orainn é a scriosadh. Is féidir leat do "
+"phasfhocal a nuashonrú trí amharc ar an logáil isteach agus an fheidhm "
+"athshocraithe a úsáid."
+
+#: Main.strings (Irish)
+msgid "Brand Name"
+msgstr "Ainm an Cheannaí"
+
+#: Main.strings (Irish)
+msgid "Tap balance bar to refresh"
+msgstr "Tapáil barra iarmhéid le hathnuachan"
+
+#: Main.strings (Irish)
+msgid "Thanks, I got it"
+msgstr "Buíochas, tá sé agam"
+
+#: Main.strings (Irish)
+msgid "Support Centre"
+msgstr "Ceisteanna Coitianta"
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid "Register with Email"
+msgstr "Cláraigh le Ríomhphost"
+
+#: Main.strings (Irish)
+msgid "Please Select an Amount:"
+msgstr "Roghnaigh Méid Le Do Thoil:"
+
+#: Main.strings (Irish)
+msgid "Forgot Password?"
+msgstr "Pasfhocal Dearmadta?"
+
+#: Main.strings (Irish)
+msgid "Register"
+msgstr "Clárú"
+
+#: Main.strings (Irish)
+msgid "Use sidebar to navigate app"
+msgstr "Úsáid Taobh-bharra chun nascleanúint san aip"
+
+#: Main.strings (Irish)
+msgid "No notifications yet!"
+msgstr "Gan fógraí go fóill!"
+
+#: Main.strings (Irish)
+msgid "Login with your LoyLap details"
+msgstr "Logáil isteach le do chuid sonraí LoyLap"
+
+#: Main.strings (Irish)
+msgid "Tap QR Code to expand"
+msgstr "Tapáil Cód QR le leathnú"
+
+#: Main.strings (Irish)
+msgid "Registering with Facebook is quicker"
+msgstr "Clárú le Facebook"
+
+#: Main.strings (Irish)
+msgid ""
+"Top-up your balance and get your reward upfront.  Topping-up is easy - "
+"select an amount & pay. "
+msgstr ""
+"Breisigh d’iarmhéid agus faigh luaíocht láithreach. Tá sé éasca breisiú a "
+"dhéanamh - roghnaigh méis agus íoc. "
+
+#: Main.strings (Irish)
+msgid "Date of Birth"
+msgstr "Dáta breithe"
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid "Login with Facebook"
+msgstr "Logáil isteach le Facebook"
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid "Rewarding Payments"
+msgstr "Íocaíochtaí a chúiteamh"
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid "Profile Photo"
+msgstr "Profíl Pictiúr"
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid ""
+"By clicking Register I consent to the LoyLap Terms of Service and Privacy "
+"Statement."
+msgstr ""
+"Trí chliceáil ar an gClár toiliú mé le Téarmaí Seirbhíse agus Ráiteas "
+"Príobháideachta LoyLap."
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid ""
+"Your data, privacy and trust are important to us. Only Merchant(s) where you "
+"use LoyLap will see your data as per our Terms of Service of use."
+msgstr ""
+"Tá do shonraí, do phríobháideacht agus d'iontaobhas tábhachtach dúinn. Ní "
+"fheicfidh LoyLap ach do Cheannaithe (í) ina n-úsáideann tú LoyLap de réir do "
+"Théarmaí Seirbhíse úsáide."
+
+#: Main.strings (Irish)
+msgid "Surname"
+msgstr "Sloinne"
+
+#: Main.strings (Irish)
+msgid "Submit Request"
+msgstr "Iarrathas a cuir isteach"
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid "Top Up Amount"
+msgstr "Méid Breise"
+
+#: Main.strings (Irish)
+msgid "Auto Top Up"
+msgstr "Uathoibríoch Breis Creidmheasa"
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid ""
+"Enabling Auto Top Up makes it even easier. Just set it up and any time your "
+"balance drops below 5.00 we'll top it for you by your preferred amount. "
+msgstr ""
+"Cumasaíonn Auto Up Up Up níos éasca é. Socraigh suas é agus aon uair a "
+"thiteann do chomhardú faoi 5.00 beidh tú ag barr an tsuim duit de réir an "
+"méid is fearr leat. "
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid "Loading ..."
+msgstr "Á lódáil ..."
+
+#: Main.strings (Irish)
+#, fuzzy
+msgid "Firstname"
+msgstr "Ainm"
+
+#: Main.strings (Irish)
+msgid "Option"
+msgstr "Rogha"
+
+#: strings.xml
+msgid "Log Out"
+msgstr "Logáil Amach"
+
+#: strings.xml
+msgid "Search by name"
+msgstr "Cuardaigh de réir ainm"
+
+#: strings.xml
+msgid "Filter"
+msgstr "Scagaigh"
+
+#: strings.xml
+msgid "Email or LoyLap Number"
+msgstr "R-phost nó Uimhir LoyLap"
+
+#: strings.xml
+#, fuzzy
+msgid "Sign in with Facebook"
+msgstr "Sínigh isteach le Facebook"
+
+#: strings.xml
+msgid "Signing in ..."
+msgstr "Síniú isteach…"
+
+#: strings.xml
+msgid "FORGOT PASSWORD?"
+msgstr "PASFHOCAL DEARMADTA?"
+
+#: strings.xml
+msgid "SIGN IN"
+msgstr "SÍNIGH ISTEACH"
+
+#: strings.xml
+msgid "Your Name"
+msgstr "D’ainm"
+
+#: strings.xml
+msgid "Confirm Password"
+msgstr "Dearbhaigh Pasfhocal"
+
+#: strings.xml
+msgid "Please agree to our terms and conditions before you submit a business"
+msgstr ""
+"Led thoil, aontaigh lenár dtéarmaí agus coinníollacha sara gcuireann tú "
+"gnólacht faoi bhráid"
+
+#: strings.xml
+msgid "Open navigation drawer"
+msgstr "Oscail tarraiceán nascleanúna"
+
+#: strings.xml
+msgid "Close navigation drawer"
+msgstr "Dún tarraiceán nascleanúna"
+
+#: strings.xml
+#, fuzzy
+msgid "We couldn't find any matches"
+msgstr "Ní fhéadfaimis aon chluiche a aimsiú"
+
+#: strings.xml
+msgid "No content yet, why not post your own message?"
+msgstr "Níl aon ábhar fós. Ar mhaith leat teachtaireacht a phostáil?"
+
+#: strings.xml
+msgid "First of all, choose your local business from the selection below."
+msgstr "Ar dtús, pioc ceannaí ón rogha thíos."
+
+#: strings.xml
+msgid "Welcome to LoyLap %1$s"
+msgstr "Fáilte chuig LoyLap %1$s"
+
+#: strings.xml
+msgid "You have earned %1$s %2$s in %3$s %4$s"
+msgstr "D’éirigh leat %1$s %2$s a thuilleamh in in %3$s %4$s"
+
+#: strings.xml
+msgid "Your %1$s Balance:"
+msgstr "Do iarmhéid %1$s:"
+
+#: strings.xml
+msgid "Unavailable right now :("
+msgstr "Gan a bheith ar fáil faoi láthair :("
+
+#: strings.xml
+msgid "You have earned %1$s with %2$s, staying loyal gives you extra cash!"
+msgstr ""
+"D\\’éirigh leat %1$s a thuilleamh le %2$s, tugann an dílseacht breis airgid "
+"duit!"
+
+#: strings.xml
+msgid "You have earned %1$s with %2$s, congrats!"
+msgstr "D’éirigh leat %1$s a thuilleamh le %2$s, comhgháirdeas!"
+
+#: strings.xml
+msgid ""
+"You have 0 stamps at %1$s, %2$d more and you'll be rewarded! Visit the "
+"loyalty section to see what you can get."
+msgstr ""
+"Tá 0 stampaí agat ag , %2$d sa bhreis agus gheobhaidh tú luaíocht. Téigh "
+"chuig an rannóg dílseachta agus féach cad atá ar fáil."
+
+#: strings.xml
+msgid ""
+"You have %1$d out of %2$d stamps for %3$s, %4$d more and you'll be rewarded! "
+"Visit the loyalty section to see what you can get."
+msgstr ""
+"Tá %1$d as %2$d stampaí agat do %3$s, %4$d sa bhreis agus gheobhaidh tú "
+"luaíocht. Téigh chuig an rannóg dílseachta agus féach cad atá ar fáil."
+
+#: strings.xml
+msgid ""
+"You have %1$d stamps with %2$s, and you only needed %3$d! Don't worry, you "
+"can accumulate as many as you want. Visit the loyalty section to see what "
+"you can get."
+msgstr ""
+"Tá %1$d stampaí agat le %2$s, ní raibh ach %3$d de dhíth!\n"
+"Ná bí buartha, is féidir leat pé méid is mian leat a bhailiú. Téigh chuig an "
+"rannóg dílseachta agus féach cad atá ar fáil."
+
+#: strings.xml
+msgid "List"
+msgstr "Liosta"
+
+#: strings.xml
+msgid "%1$.8f, %2$.8f"
+msgstr "%1$.8f, %2$.8f"
+
+#: strings.xml
+msgid "We're getting your map ready…"
+msgstr "Tá do léarscáil á ullmhú againn…"
+
+#: strings.xml
+msgid "Your previous transactions will appear here."
+msgstr "Beidh stair do chuid idirbhearta anseo."
+
+#: strings.xml
+msgid "Your Balance:"
+msgstr "D’iarmhéid:"
+
+#: strings.xml
+msgid "Terms"
+msgstr "Téarmaí"
+
+#: strings.xml
+msgid "Reply"
+msgstr "Freagra"
+
+#: strings.xml
+msgid "Flag as inappropriate"
+msgstr "Cuir bratach leis mar mí-oiriúnach"
+
+#: strings.xml
+msgid "Create a message"
+msgstr "Cruthaigh teachtaireacht"
+
+#: strings.xml
+msgid "What's this?"
+msgstr "Cad é seo?"
+
+#: strings.xml
+msgid "Confirm new message"
+msgstr "Dearbhaigh teachtaireacht nua"
+
+#: strings.xml
+msgid "Discard message"
+msgstr "Scrios Teachtaireacht"
+
+#: strings.xml
+msgid "Sponsor message"
+msgstr "Urraigh teachtaireacht"
+
+#: strings.xml
+msgid "Share this message?"
+msgstr "Roinn an teachtaireacht seo?"
+
+#: strings.xml
+msgid "Enter your reward code"
+msgstr "Cuir isteach do chód luaíochta"
+
+#: strings.xml
+msgid "Got your promo code?"
+msgstr "An bhfuil an cód promóisin agat?"
+
+#: strings.xml
+msgid "Enter your message"
+msgstr "Cuir isteach do theachtaireacht"
+
+#: strings.xml
+msgid "Talk to your community."
+msgstr "Labhair le do phobal."
+
+#: strings.xml
+msgid "%1$s characters remaining"
+msgstr "%1$s carachtar fágtha"
+
+#: strings.xml
+msgid "Logged in as %1$s"
+msgstr "Logáilte isteach mar %1$s"
+
+#: strings.xml
+msgid "Talk to us."
+msgstr "Labhair linn."
+
+#: strings.xml
+msgid ""
+"LoyLap Upfront is a secure and convenient way to top-up your account at your "
+"favourite business. Just choose an amount and pay by card."
+msgstr ""
+"Módh slán agus áisiúil is ea LoyLap Láithreach chun do chuntas a bhreisiú "
+"leis na gnólachtaí is fearr leat. Roghnaigh méid ar leith agus íoc le cárta. "
+"Cuirfear an méid AGUS bónas dílseachta le d\\’iarmhéid láithreach. Tugann "
+"gnólachtaí ar leith bónais níos mó don bhreisiú is mó."
+
+#: strings.xml
+msgid "Smart Points Ltd. All rights reserved. The Tower, Pearse St. Dublin 2"
+msgstr ""
+"Smart Points Teo. Gach ceart ar cosaint. An Túr, Sráid an Phiarsaigh, Baile "
+"Átha Cliath 2"
+
+#: strings.xml
+msgid "Hello there"
+msgstr "Dia duit"
+
+#: strings.xml
+msgid "You are very welcome to LoyLap. Here's how we work things around here."
+msgstr "Tá fáilte is fiche romhat go LoyLap. Seo mar a oibríonn muidne anseo."
+
+#: strings.xml
+msgid "Earn today"
+msgstr "Tuill inniu"
+
+#: strings.xml
+msgid ""
+"When you buy something with a LoyLap partner, your loyalty balance will be "
+"displayed right here. Tap to refresh your latest balance."
+msgstr ""
+"Nuair a cheannaíonn tú ó Cheannaí LoyLap, tiocfaidh d’iarmhéid dílseachta "
+"suas anseo. Tapáil chun d’iarmhéid reatha a fháil."
+
+#: strings.xml
+msgid "Privacy Policy"
+msgstr "Polasaí Príobháideachais"
+
+#: strings.xml
+msgid "Pull to Refresh…"
+msgstr "Tarraing le hAthnuachan…"
+
+#: strings.xml
+msgid "Redeem Promo Code"
+msgstr "Fuascail Cód Promóisin"
+
+#: strings.xml
+msgid "What's This?"
+msgstr "Cad é seo?"
+
+#: strings.xml
+msgid "Missing Your Local?"
+msgstr "Do Ghnólacht in Easnamh?"
+
+#: strings.xml
+msgid ""
+"Hit cancel to go back and select where you will use LoyLap.\n"
+"\n"
+"Otherwise, continue and LoyLap will select one for you when your loyalty "
+"balance is updated."
+msgstr ""
+"Brúigh Cealaigh le dul siar agus roghnaigh cá háit go n-úsáidfidh tú "
+"LoyLap.\n"
+"\n"
+"É sin, nó lean ar aghaidh agus roghnóidh LoyLap ceann duit nuair atá "
+"d’iarmhéid dílseachta uasdátaithe."
+
+#: strings.xml
+msgid ""
+"Hey %1$s, talk to us! We are always keen to hear directly from you guys, the "
+"users of LoyLap. Let us know about changes you would make. Tell us if your "
+"community or favourite business is missing, and we'll do our very best to "
+"get them in on the LoyLap action. The LoyLap Team"
+msgstr ""
+"Hé %1$s, labhair linn\n"
+"Is breá linn i gcónaí cloisint díreach uaibhse, úsáideoirí LoyLap.\n"
+"Inis dúinn cad iad na hathruithe go ndéanfadh sibh. Abair linn an bhfuil "
+"gnólacht gur maith leat in easnamh,\n"
+"agus déanfaimid tréan-iarracht iad a thabhairt isteach i ndomhan LoyLap.\n"
+"Foireann LoyLap"
+
+#: strings.xml
+msgid "Confirm Message"
+msgstr "Dearbhaigh Teachtaireacht"
+
+#: strings.xml
+msgid "Terms &amp; Conditions"
+msgstr "Téarmaí &amp; Coinníollacha"
+
+#: strings.xml
+msgid "Contact Us"
+msgstr "Déan Teagmháil Linn"
+
+#: strings.xml
+msgid "Something went wrong"
+msgstr "Chuaigh rud éigin amú"
+
+#: strings.xml
+msgid ""
+"Either the LoyLap ID or the Password you entered are incorrect, please try "
+"again"
+msgstr ""
+"Tá an Aitheantas LoyLap agus/nó an Pasfhocal a chuir tú isteach mícheart, "
+"bain triail as arís"
+
+#: strings.xml
+msgid "Login Problem"
+msgstr "Fadhb ag lógáil isteach"
+
+#: strings.xml
+msgid ""
+"Something went wrong, make sure you have an internet connection and try "
+"again."
+msgstr ""
+"Chuaigh rud éigin amú, deimhnigh go bhfuil nasc idirlín agat agus bain "
+"triail as arís."
+
+#: strings.xml
+msgid ""
+"Our server did not respond to your device. Please check your internet "
+"connection and try again."
+msgstr ""
+"Níor fhreagraigh ár bhfreastalaí do ghléas. Seiceáil an nasc idirlín agus "
+"bain triail as arís."
+
+#: strings.xml
+msgid "Registration problem"
+msgstr "Fadhb ag clárú"
+
+#: strings.xml
+msgid "Your email address isn't valid"
+msgstr "Níl do sheoladh r-phoist bailí"
+
+#: strings.xml
+msgid "Your password must be at least 6 characters and include 1 number"
+msgstr ""
+"Bíodh an pasfhocal 6 charachtar ar fhad ar a laghad, agus bíodh 1 uimhir san "
+"áireamh"
+
+#: strings.xml
+msgid "Your passwords don't not match"
+msgstr "Ní réitíonn na pasfhocail"
+
+#: strings.xml
+msgid "Your date of birth has not been set"
+msgstr "Níor socraíodh do dháta breithe"
+
+#: strings.xml
+msgid "LoyLap users must be at least 16 years old"
+msgstr "Ní mór d’úsáideoirí LoyLap a bheith os cionn 16 bliana d’aois"
+
+#: strings.xml
+msgid "Your email has already been registered with LoyLap"
+msgstr "Tá do r-phost cláraithe cheana féin le LoyLap"
+
+#: strings.xml
+msgid ""
+"You must agree to the LoyLap terms of service and privacy policy agreement"
+msgstr ""
+"Caithfidh tú aontú leis na téarmaí seirbhíse agus an polasaí "
+"príobháideachais ag LoyLap"
+
+#: strings.xml
+msgid "LoyLap Rewards"
+msgstr "Luaíochtaí LoyLap"
+
+#: strings.xml
+msgid ""
+"Hey %1$s, From time to time businesses will release promotional codes using "
+"social media like Twitter and Facebook, or they may simply display them in "
+"store. These promotional codes are exclusive offers businesses wish to give "
+"to their loyal customers; so make sure you're following them to never miss "
+"one! Got a code? Simply enter it here to claim your reward. The LoyLap Team"
+msgstr ""
+"Hey %1$s,\n"
+"From time to time businesses will release promotional codes using social "
+"media like Twitter and Facebook, or they may simply display them in store.\n"
+"These promotional codes are exclusive offers businesses wish to give to "
+"their loyal customers; so make sure you\\’re following them to never miss "
+"one!\n"
+"Got a code? Simply enter it here to claim your reward.\n"
+"The LoyLap Team"
+
+#: strings.xml
+msgid ""
+"Link a physical LoyLap card to your account with us and never lose your "
+"balance! \n"
+"\n"
+"Just scan your QR code and enter the 3 digit cvv (printed with your QR "
+"code). \n"
+"\n"
+"Both your app and card will then be tied to the same account."
+msgstr ""
+"Nasc cárta fisiciúil LoyLap le do chuntas linne agus ní chaillfidh tú d"
+"\\’iarmhéid riamh!\n"
+"Scan an cód QR agus cuir isteach an CVV 3-dhigit (atá clóite le do chód "
+"QR).\n"
+"Ansin beidh d\\’aip agus do chárta nascaithe leis an gcuntas céanna."
+
+#: strings.xml
+msgid "Are you a business?"
+msgstr "An gnólacht tú?"
+
+#: strings.xml
+msgid ""
+"We are always looking for new partners to work with and help them increase "
+"customer retention rates by enabling them to give their customers great "
+"loyalty rewards via their smart phones. \n"
+"\n"
+"If your business is interested in joining the hundreds already using LoyLap "
+"successfully, please send us an e-mail to info@loylap.com, or you can simply "
+"sign your business up straight away at www.loylap.com"
+msgstr ""
+"Táimid de shíor ag lorg páirtnéirí nua le bheith ag obair leo agus ag cabhrú "
+"leo lena ráta coinneála custaiméirí\n"
+"tríd cabhrú leo luaíochtaí dílseachta iontacha a chur ar fáil dá "
+"gcustaiméirí.\n"
+"Má tá spéis ag do ghnólacht LoyLap a úsáid go rathúil, faoi mar a dhéanann "
+"na céadta eile, seol r-phost chugainn ag info@loylap.com,\n"
+"nó déan do ghnólacht a chlárú linn go héasca láithreach bonn ag www.loylap."
+"com/clárú"
+
+#: strings.xml
+msgid "Rate LoyLap"
+msgstr "Rátaigh LoyLap"
+
+#: strings.xml
+msgid ""
+"If you enjoy using LoyLap, please take a moment to rate it. Thanks for your "
+"support!"
+msgstr ""
+"Má bhaineann tú sult as LoyLap a úsáid, tóg tamall agus rátaigh muid. "
+"Buíochas as do chuid tacaíochta!"
+
+#: strings.xml
+msgid "Enter your email or ID"
+msgstr "Cuir isteach do r-phost nó Aitheantas LoyLap"
+
+#: strings.xml
+msgid "Pick Image"
+msgstr "Íomhá Pioc"
+
+#: strings.xml
+msgid "Please check your internet connection, and try again."
+msgstr "Deimhnigh go bhfuil nasc idirlín agat, agus bain triail as arís."
+
+#: strings.xml
+msgid ""
+"We couldn't get your latest balance, please check your internet connection "
+"and tap the balance box to refresh!"
+msgstr ""
+"Níor éirigh linn d’iarmhéid reatha a fháil. Deimhnigh go bhfuil nasc idirlín "
+"agat agus tapáil an bosca iarmhéid le hathnuachan!"
+
+#: strings.xml
+msgid "Nothing was entered!"
+msgstr "Níor cuireadtoast_error_web_connection_balanceh aon rud isteach!"
+
+#: strings.xml
+msgid ""
+"We couldn't load the latest information, try tapping the balance box to "
+"refresh."
+msgstr ""
+"Níor éirigh linn an t-eolas is déanaí a fháil, tapáil an bosca iarmhéid le "
+"hathnuachan."
+
+#: strings.xml
+msgid "We couldn't authenticate you, try reopening the app"
+msgstr ""
+"Níor éirigh linn tú a fhíordheimhniú. Bain triail as an aip a oscailt arís"
+
+#: strings.xml
+msgid ""
+"We couldn't get a response, please check your internet connection and try "
+"again."
+msgstr ""
+"Níor éirigh linn freagra a fháil. Deimhnigh go bhfuil nasc idirlín agat agus "
+"bain triail as arís."
+
+#: strings.xml
+msgid "We couldn't get your last known location"
+msgstr "Níor éirigh linn do shuíomh reatha a fháil"
+
+#: strings.xml
+msgid "An error occurred, try relaunching and contact us if problems persist."
+msgstr ""
+"Tharla earráid. Déan an aip a athláinseáil agus déan teagmháil linn má "
+"bhíonn fadhbanna agat arís."
+
+#: strings.xml
+msgid ""
+"Something went wrong with Facebook, please try closing the app and logging "
+"in again. Contact us if problems persist."
+msgstr ""
+"Chuaigh rud éigin amú le Facebook, bain triail as an aip a dhúnadh agus "
+"logáil isteach arís. Déan teagmháil linn má bhíonn fadhbanna agat arís."
+
+#: strings.xml
+msgid ""
+"There was an unexpected response from LoyLap. Try again and contact us if "
+"problems persist."
+msgstr ""
+"Bhí freagra gan choinne ó LoyLap. Bain triail as arís agus déan teagmháil "
+"linn má bhíonn fadhbanna agat arís."
+
+#: strings.xml
+msgid "Cancelled!"
+msgstr "Curtha ar Ceal!"
+
+#: strings.xml
+msgid "Something went wrong, swipe down to refresh and try again"
+msgstr ""
+"Chuaigh rud éigin amú, tarraing méar síos le hathnuachan agus bain triail as "
+"arís"
+
+#: strings.xml
+msgid ""
+"This will refresh your latest balance when you use LoyLap for the first time."
+msgstr ""
+"Déanfaidh sé seo d’iarmhéid reatha a athnuachan nuair a úsáideann tú LoyLap "
+"don chéad uair."
+
+#: strings.xml
+msgid "Current rank:"
+msgstr "Céim reatha:"
+
+#: strings.xml
+msgid "Additional comments (optional)"
+msgstr "Tráchtanna eile"
+
+#: strings.xml
+msgid "Business email"
+msgstr "R-phost Gnó"
+
+#: strings.xml
+msgid "Business name"
+msgstr "Ainm Gnólachta"
+
+#: strings.xml
+msgid ""
+"Do you know a business where you'd like to use LoyLap? Simply enter the "
+"business details below and we'll be in touch. If the business joins LoyLap, "
+"we'll credit your account for that business with €100 to say thank you."
+msgstr ""
+"An bhfuil aithne agat ar ghnólacht lenar mhaith leat LoyLap a úsáid? Díreach "
+"cuir isteach na sonraí gnólachta thíos agus rachaimid i dteagmháil leo.\n"
+"        \\n\\n Má théann an gnólacht i bpáirt le LoyLap, cuirfimid "
+"creidmheas don ghnólacht sin de €100 i do chuntas mar chomhartha buíochais."
+
+#: strings.xml
+msgid "Let's Go"
+msgstr "Ar Aghaidh Linn"
+
+#: strings.xml
+msgid "Could not load this business"
+msgstr "Teip ar Cheannaí a lódáil"
+
+#: strings.xml
+msgid "An error occurred :("
+msgstr "Tharla earráid :("
+
+#: strings.xml
+msgid "Access to the camera is needed for detection"
+msgstr "Rochtain ar cheamara de dhíth le haghaidh aimsiú"
+
+#: strings.xml
+msgid ""
+"This application cannot run because it does not have the camera permission.  "
+"The application will now exit."
+msgstr ""
+"Ní féidir leis an aip seo rith mar nach bhfuil cead ceamara aici. Rachaidh "
+"an aip ar scor anois."
+
+#: strings.xml
+#, fuzzy
+msgid "Library"
+msgstr "Leabharlann"
+
+#: strings.xml
+msgid ""
+"Barcode detector dependencies cannot be downloaded due to low device storage"
+msgstr ""
+"Ní féidir spleáchais brathadóra barrachóid a íoslódáil mar nach bhfuil spás "
+"stórála ar an ngléas"
+
+#: strings.xml
+msgid ""
+"Barcode detector dependencies cannot be downloaded due to an error from "
+"Google. Please manually enter the code instead."
+msgstr ""
+"Ní féidir spleáchais brathadóra barrachóid a íoslódáil toisc earráide ó "
+"Google. Cuir an cód isteach de láimh le do thoil."
+
+#: strings.xml
+msgid "Click &quot;Read Barcode&quot; to read a barcode"
+msgstr "Click &quot;Léigh Barrachód&quot; to read a barcode"
+
+#: strings.xml
+msgid "Read Barcode"
+msgstr "Léigh Barrachód"
+
+#: strings.xml
+msgid "Auto Focus"
+msgstr "Uathfhócas"
+
+#: strings.xml
+msgid "Use Flash"
+msgstr "Úsáid Splanc"
+
+#: strings.xml
+msgid "Barcode read successfully"
+msgstr "Léadh an barrachód i gceart"
+
+#: strings.xml
+msgid "No barcode captured"
+msgstr "Níor gabhadh aon bharrachód"
+
+#: strings.xml
+msgid "Error reading barcode: %1$s"
+msgstr "Earráid ag léamh barrachód: %1$s"
+
+#: strings.xml
+#, fuzzy
+#| msgid "Link a card"
+msgid "Scan a card"
+msgstr "Nasc Cárta"
+
+#: strings.xml
+msgid "Looks like you didn\t scan a LoyLap card, try again below"
+msgstr "Is cosúil nár scan tú cárta LoyLap, bain triail as arís thíos"
+
+#: strings.xml
+msgid "Good job! Enter your 3 digit CVV number below<"
+msgstr "Maith thú! Cuir isteach d’uimhir CVV 3-dhigit thíos"
+
+#: strings.xml
+msgid "Your CVV code"
+msgstr "Do chód CVV"
+
+#: strings.xml
+msgid "Your app number:"
+msgstr "D’uimhir aipe:"
+
+#: strings.xml
+msgid "Your card number:"
+msgstr "D’uimhir chárta:"
+
+#: strings.xml
+msgid "Opening Scanner"
+msgstr "Scanóir Á Oscailt"
+
+#: strings.xml
+msgid "This card was successfully linked to your account"
+msgstr "Deineadh an cárta seo a nascadh le do chuntas i gceart"
+
+#: strings.xml
+msgid "There was a problem: %1$s"
+msgstr "Tharla fadhb: %1$s"
+
+#: strings.xml
+msgid "Got it!"
+msgstr "Againn!"
+
+#: strings.xml
+msgid "Your location is used to help you navigate the map"
+msgstr "Úsáidtear do shuíomh chun cabhrú leat an léarscáil a threorú"
+
+#: strings.xml
+msgid "Relaunch the map to permit permission to your location!"
+msgstr "Déan an léarscáil a athláinseáil chun rochtain ar do shuíomh a cheadú!"
+
+#: strings.xml
+msgid "Your location is used to find your most relevant businesses"
+msgstr "Úsáidear do shuíomh chun na gnólachtaí is oiriúnaí a aimsiú"
+
+#: strings.xml
+msgid "Pull to refresh the list to permit permission to your location"
+msgstr ""
+"Tarraing leis an liosta a athnuachan chun rochtain ar do shuíomh a cheadú"
+
+#: strings.xml
+msgid "Find a business"
+msgstr "Aimsigh gnólacht"
+
+#: strings.xml
+msgid "All major cards accepted"
+msgstr "Glactar le na mór-chártaí go léir"
+
+#: strings.xml
+msgid "Payment Methods"
+msgstr "Módhanna Íocaíochta"
+
+#: strings.xml
+msgid "Card ending in "
+msgstr "Cárta le Críoch "
+
+#: strings.xml
+msgid "Creating Token&#8230;"
+msgstr "Dearbhán á Chruthú&#8230;"
+
+#: strings.xml
+msgid "Validation Problem"
+msgstr "Fadhb le Bailíochtú"
+
+#: strings.xml
+msgid "Card Number"
+msgstr "Uimhir Chárta"
+
+#: strings.xml
+msgid "CVC"
+msgstr "CVV"
+
+#: strings.xml
+msgid "Your Card Number"
+msgstr "D’uimhir chárta"
+
+#: strings.xml
+msgid "Transaction cancelled!"
+msgstr "Idirbheart curtha ar ceal!"
+
+#: strings.xml
+msgid "Your payment was successful!"
+msgstr "D’éirigh le d’íocaíocht!"
+
+#: strings.xml
+msgid "Card Expiry"
+msgstr "Dáta Éaga Chárta"
+
+#: strings.xml
+msgid ""
+"The payment is handled by %1$s using a secure, web-based transaction. LoyLap "
+"never access or store any of your payment details."
+msgstr ""
+"Tá an íocaíocht á láimhseáil ag %1$s ag baint úsáid as ríomh-idirbheart "
+"slán. Ní dhéanfaidh LoyLap rochtain a éileamh do do shonraí íocaíochta nó "
+"iad a stóráil riamh."
+
+#: strings.xml
+msgid ""
+"LoyLap needs your email address just in case we need to contact you with "
+"something important!"
+msgstr ""
+"Tá do sheoladh r-phoist de dhíth ar LoyLap sa chás gur gá dúinn dul i "
+"dteagmháil leat maidir le scéal tábhachtach!"
+
+#: strings.xml
+msgid ""
+"LoyLap needs your birthday so we may offer you extra rewards as a special "
+"thank you!"
+msgstr ""
+"Tá do dháta breithe de dhíth ar LoyLap le gur féidir linn luaíochtaí breise "
+"a thairiscint duit mar chomhartha buíochais!"
+
+#: strings.xml
+msgid ""
+"€100 will be granted to a registered LoyLap user who suggests a new business "
+"which subsequently joins the LoyLap platform. \n"
+"\n"
+msgstr ""
+"Bronnfar €100 ar úsáideoir cláraithe LoyLap a mholann gnólacht nua a théann "
+"i bpáirt linn in LoyLap toisc an moladh áirithe sin.\n"
+
+#: strings.xml
+msgid ""
+"In the case of more than one LoyLap user recommending the same business, the "
+"€100 credit will be dvided evenly between all those who recommend"
+msgstr ""
+"Sa chás go ndéanann níos mó ná úsáideoir amháin LoyLap gnólacht a mholadh, "
+"roinnfear an creidmheas €100 go cothrom idir na húsáideoirí go léir a mhol"
+
+#: strings.xml
+msgid ""
+"the business. \n"
+"\n"
+"€100 credit, or your percentage of €100, will be applied to your LoyLap "
+"account only after the first monthly fee has been received from the new "
+"business customer"
+msgstr ""
+"cuirfear an €100 creidmheas, nó do chéatadán den €100, le do chuntas LoyLap "
+"i ndiaidh don chéad táille míosúil a bheith íoctha ag an gcustaiméir nua gnó"
+
+#: strings.xml
+msgid "Or, manually enter a card number"
+msgstr "Nó, cuir uimhir chárta isteach de láimh"
+
+#: strings.xml
+msgid "The user was null"
+msgstr "Úsáideoir ar neamhní"
+
+#: strings.xml
+msgid "The user ID was empty"
+msgstr "Aitheantas Úsáideora folamh"
+
+#: strings.xml
+msgid ""
+"An error occurred logging in with Facebook. Contact us if problems persist."
+msgstr ""
+"Tharla earráid ag logáil isteach le Facebook. Déan teagmháil linn má leanann "
+"an fhadhb ar aghaidh."
+
+#: strings.xml
+msgid "Cancelled login!"
+msgstr "Logáil isteach ar ceal!"
+
+#: strings.xml
+msgid "Visit to start earning!"
+msgstr "Tabhair cuairt ar phobal nó gnó chun tuilleamh!"
+
+#: strings.xml
+msgid "Cancelled registration!"
+msgstr "Clárú ar ceal!"
+
+#: strings.xml
+msgid "Choose your date of birth"
+msgstr "Roghnaigh do dháta breithe"
+
+#: strings.xml
+msgid "Choose a business"
+msgstr "Roghnaigh Ceannaí"
+
+#: strings.xml
+msgid "Frequent Questions"
+msgstr "Ceisteanna Coitianta"
+
+#: strings.xml
+msgid "Our Terms"
+msgstr "Ár dTéarmaí"
+
+#: strings.xml
+msgid "Enter Your Payment Details"
+msgstr "Cuir Isteach do Shonraí Íocaíochta"
+
+#: strings.xml
+msgid ""
+"Looks like something went wrong, try again and contact us if problems persist"
+msgstr ""
+"Is léir go ndeachaigh rud éigin amú, bain triail as arís agus déan teagmháil "
+"má leanann an fhadhb ar aghaidh"
+
+#: strings.xml
+msgid "LoyLap Upfront"
+msgstr "LoyLap Láithreach"
+
+#: strings.xml
+msgid "Select a top-up amount:"
+msgstr "Roghnaigh méid le breisiú:"
+
+#: strings.xml
+msgid "earns a"
+msgstr "tuilleamh"
+
+#: strings.xml
+msgid "Loading your account with "
+msgstr "Breisiú de "
+
+#: strings.xml
+msgid "Help and Feedback"
+msgstr "Cabhair agus Aiseolas"
+
+#: strings.xml
+msgid "About LoyLap "
+msgstr "Maidir le LoyLap "
+
+#: strings.xml
+msgid "Nothing entered!"
+msgstr "Tada curtha isteach!"
+
+#: strings.xml
+#, fuzzy
+msgid "Promotional code not valid!"
+msgstr "Níl cód tionscnaimh bailí!"
+
+#: strings.xml
+#, fuzzy
+msgid "Passwords do not match!"
+msgstr "Ní mheaitseálann pasfhocail!"
+
+#: strings.xml
+msgid "Refer a Business"
+msgstr "Mol Gnólacht Dúinn"
+
+#: strings.xml
+msgid ""
+"Send us the following message?\n"
+"%s"
+msgstr "Seol an teachtaireacht a leanann?\\n%s"
+
+#: strings.xml
+msgid "Message is empty!"
+msgstr "Teachtaireacht folamh!"
+
+#: strings.xml
+msgid "Feedback sent, we'll be in touch!"
+msgstr "Aiseolas curtha. Beimid i dteagmháil!"
+
+#: strings.xml
+msgid "Message cancelled!"
+msgstr "Teachtaireacht curtha ar ceal!"
+
+#: strings.xml
+msgid "The card number that you entered is invalid"
+msgstr "Tá an uimhir chárta a chuir tú isteach neamhbhailí"
+
+#: strings.xml
+msgid "The expiration date that you entered is invalid"
+msgstr "Tá an dáta éaga a chuir tú isteach neamhbhailí"
+
+#: strings.xml
+msgid "The CVC code that you entered is invalid"
+msgstr "Tá an cód CVV a chuir tú isteach neamhbhailí"
+
+#: strings.xml
+msgid "The card details that you entered are invalid"
+msgstr "Tá na sonraí cárta a chuir tú isteach neamhbhailí"
+
+#: strings.xml
+msgid "card code"
+msgstr "cód cárta"
+
+#: strings.xml
+msgid "Get a %1$s for every %2$d stamps"
+msgstr "Faigh %1$s le haghaidh gach %2$d stampa"
+
+#: strings.xml
+msgid "%1$d of %2$d stamps"
+msgstr "%1$d as %2$d stampa"
+
+#: strings.xml
+msgid "Earn %1$s for every %2$s spent"
+msgstr "Tuill %1$s ar gach %2$s a chaitheann tú"
+
+#: strings.xml
+msgid "We couldn't find an app to handle this link: "
+msgstr "Níor aimsíomar aip leis an nasc seo a láimhseáil: "
+
+#: strings.xml
+msgid "Sorry we don't have a web address for this partner"
+msgstr "Brón orainn ach níl seoladh idirlín againn don Cheannaí seo"
+
+#: strings.xml
+msgid "Hi %s"
+msgstr "Hi %s"
+
+#: strings.xml
+msgid "I was just wondering...."
+msgstr "Táim leath ag smaoineamh…"
+
+#: strings.xml
+msgid "Send Email"
+msgstr "Seol R-phost"
+
+#: strings.xml
+msgid "We couldn't find an app to send an email… "
+msgstr "Táim leath ag smaoineamh… "
+
+#: strings.xml
+msgid "Sorry we don't have an email address for this partner"
+msgstr "Brón orainn ach níl seoladh r-phoist againn don pháirtnéir seo"
+
+#: strings.xml
+msgid "We couldn't find an app to handle this phone number: %s"
+msgstr "Níor aimsíomar aip leis an uimhir ghutháin seo a láimhseáil: %s"
+
+#: strings.xml
+msgid "Sorry we don't have a phone number for this partner"
+msgstr "Níor aimsíomar aip leis an uimhir ghutháin seo a láimhseáil: %s"
+
+#: strings.xml
+msgid "Terms and Conditions: "
+msgstr "Téarmaí agus Coinníollacha: "
+
+#: strings.xml
+msgid "%s Partners"
+msgstr "%s Páirtnéirí"
+
+#: strings.xml
+msgid "Topping up with LoyLap is not yet available for this business!"
+msgstr "Níl Breisiú le LoyLap ar fáil don ghnólacht seo go fóill!"
+
+#: strings.xml
+msgid ""
+"There was a problem going to the page for this business, please refresh and "
+"try again"
+msgstr ""
+"Bhí fadhb ann dul go dtí an leathanach don ghnólacht seo, athnuaigh agus "
+"bain triail as arís"
+
+#: strings.xml
+msgid "Choose a business to see their LoyLap activity feed"
+msgstr "Roghnaigh gnólacht leis an Fhotha Gníomhaíochta LoyLap acu a fheiceáil"
+
+#: strings.xml
+msgid "Balance Updated!"
+msgstr "Iarmhéid Uasdátaithe!"
+
+# Alternative Translation Provided: Athshlánaigh Pasfhocal
+#: strings.xml
+#, fuzzy
+#| msgid "Reset password"
+msgid "Recover Password"
+msgstr "Athshocraigh Pasfhocal"
+
+#: strings.xml
+msgid ""
+"An email has been sent to your account to assist in recovering your password"
+msgstr ""
+"Seoladh r-phost chuig do chuntas chun cabhrú leat do phasfhocal a athshlánú"
+
+#: strings.xml
+msgid "Cancelled request!"
+msgstr "Iarratas ar ceal!"
+
+#: strings.xml
+msgid ""
+"We're sorry, looks like something went wrong! Please try logging in again"
+msgstr ""
+"Tá brón orainn, is léir go ndeachaigh rud éigin amú! Déan iarracht logáil "
+"isteach arís, le do thoil"
+
+#: strings.xml
+msgid "Retry"
+msgstr "Bain triail as arís"
+
+#: strings.xml
+msgid "A problem has occurred, please try again"
+msgstr "Tharla fadhb, bain triail as arís"
+
+#: strings.xml
+msgid " Congratulations!"
+msgstr " Comhgháirdeas leat!"
+
+#: strings.xml
+msgid "Choose a business from the list below"
+msgstr "Roghnaigh pobal ón liosta thíos"
+
+#: strings.xml
+msgid "You're back with %s"
+msgstr "Tá tú ar ais le %s"
+
+#: strings.xml
+msgid "%s earned"
+msgstr "%s tuillte"
+
+#: strings.xml
+msgid "%s redeemed"
+msgstr "%s fuascailte"
+
+#: strings.xml
+msgid "%s upfront deposit"
+msgstr "%s éarlais láithreach"
+
+#: strings.xml
+msgid "Your History"
+msgstr "Do Stair"
+
+#: strings.xml
+msgid "visit"
+msgstr "cuairt"
+
+#: strings.xml
+msgid "visits"
+msgstr "cuairteanna"
+
+#: strings.xml
+msgid "reward"
+msgstr "luaíocht"
+
+#: strings.xml
+msgid "rewards"
+msgstr "luaíochtaí"
+
+#: strings.xml
+msgid "Create Feedback"
+msgstr "Cruthaigh Aiseolas"
+
+#: strings.xml
+msgid "Select a Business"
+msgstr "Roghnaigh Gnólacht"
+
+#: strings.xml
+msgid "Select a LoyLap Business"
+msgstr "Roghnaigh Gnólacht LoyLap"
+
+#: strings.xml
+msgid "new guy!"
+msgstr "boc nua!"
+
+#: strings.xml
+msgid "Communities not loaded! Swipe down to refresh."
+msgstr "Níl na pobail lódáilte! Tarraing méar síos le hathnuachan."
+
+#: strings.xml
+msgid "Tap to capture. Pinch/Stretch to zoom"
+msgstr "Tapáil chun gabháil. Pinseáil/sín chun zúmáil"
+
+#: strings.xml
+msgid "There was a problem: %s"
+msgstr "Bhí fadhb ann: %s"
+
+#: strings.xml
+msgid "Sending payment…"
+msgstr "Íocaíocht á sheoladh…"
+
+#: strings.xml
+msgid "Logging in…"
+msgstr "Logaáil isteach…"
+
+#: strings.xml
+msgid "Logging in with Facebook…"
+msgstr "Lógáil isteach le Facebook…"
+
+#: strings.xml
+msgid "Response error: %s"
+msgstr "Earráid Fhreagartha: %s"
+
+#: strings.xml
+msgid "Linking card…"
+msgstr "Nasc Cárta…"
+
+#: strings.xml
+msgid "Checking Email or ID…"
+msgstr "R-phost nó Aitheantas á sheiceáil…"
+
+#: strings.xml
+msgid "Checking reward code…"
+msgstr "Cód luaíochta á sheiceáil…"
+
+#: strings.xml
+msgid "Finding LoyLap Merchants…"
+msgstr "Páirtnéirí LoyLap á Aimsiú…"
+
+#: strings.xml
+msgid "%sPresent to any LoyLap business"
+msgstr "%s\\nTaispeáin do pháirtnéir LoyLap ar bith"
+
+#: strings.xml
+msgid "stamp"
+msgstr "stampa"
+
+#: strings.xml
+msgid "stamps"
+msgstr "stampaí"
+
+#: strings.xml
+msgid "Frequently Asked Questions"
+msgstr "FAQs"
+
+#: strings.xml
+msgid "Send Feedback"
+msgstr "Seol Aiseolas"
+
+#: strings.xml
+msgid "Are you a Business?"
+msgstr "An Gnólacht Tú?"
+
+#: strings.xml
+#, fuzzy
+msgid "Enter your email, and we'll send you password reset instructions"
+msgstr ""
+"Cuir isteach do r-phost, agus seolfaimid treoracha athshocraithe pasfhocal "
+"chugat"
+
+#: strings.xml
+msgid ""
+"We don't have any record of that registered email, sorry! Please try again"
+msgstr ""
+"Níl aon chuntas againn den Aitheantas LoyLap sin nó r-phost cláraithe, tá "
+"brón orainn! Bain triail as arís"
+
+#: strings.xml
+msgid "%s spent"
+msgstr "%s caite"
+
+#: strings.xml
+msgid "%s loaded"
+msgstr "%s lódáilte"
+
+#: strings.xml
+msgid "%s refunded"
+msgstr "%s aisíoctha"
+
+#: strings.xml
+msgid "%s surcharge"
+msgstr "%s formhuirear"
+
+#: strings.xml
+msgid "%s vending machine"
+msgstr "%s meaisín díola"
+
+#: strings.xml
+msgid "Change Business"
+msgstr "Athraigh Gnólacht"
+
+#: strings.xml
+msgid "Log in with Facebook"
+msgstr "Logáil isteach le Facebook"
+
+#: strings.xml
+#, fuzzy
+msgid "PAY"
+msgstr "PÁ"
+
+#: strings.xml
+#, fuzzy
+msgid "Choose a different top-up amount below"
+msgstr "Roghnaigh méid breise thíos"
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"Top-up your balance, and get your reward upfront. Topping-up is easy - "
+"choose an amount and pay!"
+msgstr ""
+"Cuir le do chothromaíocht, agus faigh do luach saothair roimh ré. Tá sé "
+"éasca an méadú a dhéanamh - roghnaigh méid agus pá!"
+
+#: strings.xml
+#, fuzzy
+msgid "It's Secure"
+msgstr "Tá sé slán"
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"There are no extra loyalty bonuses available right now, we'll let you know "
+"when that changes"
+msgstr ""
+"Níl aon bhónais dílseachta bhreise ar fáil anois, cuirfimid in iúl duit "
+"nuair a athraíonn tú"
+
+#: strings.xml
+#, fuzzy
+msgid "Pre-order with LoyLap"
+msgstr "Réamhordú le LoyLap"
+
+#: strings.xml
+#, fuzzy
+msgid "Pre-order"
+msgstr "Réamh-ordú"
+
+#: strings.xml
+#, fuzzy
+msgid "Change which kind of code this business requires"
+msgstr "Athraigh an cineál cóid a éilíonn an gnó seo"
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"You have earned 0 stamps at %1$s, %2$d more and you'll be rewarded! You also "
+"have %3$s in credit."
+msgstr ""
+"Thuill tú 0 stampaí ag%1$s,% 2 $ d níos mó agus bronntar ort! Tá creidmheas "
+"%3$s agat freisin."
+
+#: strings.xml
+msgid ""
+"You have earned a reward! Don't forget to claim it. You also have %1$s in "
+"credit."
+msgstr ""
+"Tá duais tuillte agat! Ná déan dearmad é a éileamh. Tá creidmheas %1$s agat "
+"freisin."
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"You have %1$d out of %2$d stamps for %3$s, %4$d more and you'll be rewarded! "
+"Visit the loyalty section to see what you can get. You also have %5$s in "
+"credit"
+msgstr ""
+"Tá% 1 $ d agat as %2 $ d stampaí do%3$s,% 4 $ d níos mó agus tabharfar luach "
+"saothair duit! Tabhair cuairt ar an rannóg dílseachta chun a fháil amach cad "
+"is féidir leat a fháil. Tá creidmheas %5$s agat freisin"
+
+#: strings.xml
+#, fuzzy
+msgid "You have earned %1$s with %2$s, congrats! You also have %3$d stamp(s)."
+msgstr ""
+"Tá%1$s tuillte agat le%2$s, comhghairdeas! Tá stampa (í)% 3 $ d agat freisin."
+
+#: strings.xml
+#, fuzzy
+msgid "Fetching user details"
+msgstr "Sonraí úsáideora a aimsiú"
+
+#: strings.xml
+#, fuzzy
+msgid "Updating user details"
+msgstr "Sonraí an úsáideora a nuashonrú"
+
+#: strings.xml
+#, fuzzy
+msgid "Automatically Top-Up by %s"
+msgstr "Breisiú go huathoibríoch ag %s"
+
+#: strings.xml
+#, fuzzy
+msgid "when your balance falls below €5."
+msgstr "nuair a thiteann do chomhardú faoi € 5."
+
+#: strings.xml
+#, fuzzy
+msgid "You'll receive a %s"
+msgstr "Gheobhaidh tú %s"
+
+#: strings.xml
+#, fuzzy
+msgid "bonus with each Top-Up."
+msgstr "bónas le gach Breisiú."
+
+#: strings.xml
+#, fuzzy
+msgid "You have successfully loaded your %1$s account with "
+msgstr "D'éirigh leat do chuntas %1$s a luchtú "
+
+#: strings.xml
+#, fuzzy
+msgid "Pre-ordering is not available for this business!"
+msgstr "Níl réamh-ordú ar fáil don ghnó seo!"
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"You have %1$d stamps with %2$s, and you only needed %3$d! Don't worry, you "
+"can accumulate as many as you want. Visit the loyalty section to see what "
+"you can get. You also have %4$s in credit."
+msgstr ""
+"Tá stampaí% 1 $ d agat le%2$s, agus ní raibh de dhíth ort ach% 3 $ d! Ná "
+"bíodh imní ort, is féidir leat an oiread agus is mian leat a charnadh. "
+"Tabhair cuairt ar an rannóg dílseachta chun a fháil amach cad is féidir leat "
+"a fháil. Tá creidmheas %4$s agat freisin."
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"You have %1$d out of %2$d stamps for %3$s, %4$d more and you'll be rewarded! "
+"Visit the loyalty section to see what you can get. You also have %5$s in "
+"credit."
+msgstr ""
+"Tá% 1 $ d agat as %2 $ d stampaí do%3$s,% 4 $ d níos mó agus tabharfar luach "
+"saothair duit! Tabhair cuairt ar an rannóg dílseachta chun a fháil amach cad "
+"is féidir leat a fháil. Tá creidmheas %5$s agat freisin."
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"You have earned %1$s with %2$s, staying loyal gives you extra cash! You also "
+"have %3$d stamp(s)."
+msgstr ""
+"Tá%1$s tuillte agat le%2$s, agus airgead breise á thabhairt agat ag fanacht "
+"dílis! Tá stampa (í)% 3 $ d agat freisin."
+
+#: strings.xml
+#, fuzzy
+msgid "Auto Top-Up"
+msgstr "Uathoibríoch Breis Creidmheasa"
+
+#: strings.xml
+#, fuzzy
+msgid "You earned a %1$s bonus!"
+msgstr "Thuill tú bónas %1$s!"
+
+#: strings.xml
+#, fuzzy
+msgid "No more results"
+msgstr "Níl níos mó torthaí ann"
+
+#: strings.xml
+#, fuzzy
+msgid "loading more"
+msgstr "ag luchtú níos mó"
+
+#: strings.xml
+#, fuzzy
+msgid "fetching nearby merchants"
+msgstr "ag fáil ceannaithe in aice láimhe"
+
+#: strings.xml
+#, fuzzy
+msgid "No businesses found"
+msgstr "Níor aimsíodh aon ghnólachtaí"
+
+#: strings.xml
+#, fuzzy
+msgid "Trouble scanning?"
+msgstr "Scanadh trioblóid?"
+
+#: strings.xml
+#, fuzzy
+msgid "Allow LoyLap to change your brightness"
+msgstr "Lig do LoyLap do ghile a athrú"
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"LoyLap needs you to grant the following permission to set your brightness to "
+"an optimal level"
+msgstr ""
+"Ní mór duit LoyLap an cead seo a leanas a dheonú chun do ghile a shocrú go "
+"dtí an leibhéal is fearr"
+
+#: strings.xml
+#, fuzzy
+msgid "Grant permission"
+msgstr "Cead a dheonú"
+
+#: strings.xml
+#, fuzzy
+msgid "You have successfully loaded your %1$s account"
+msgstr "D'éirigh leat do chuntas %1$s a luchtú"
+
+#: strings.xml
+#, fuzzy
+msgid "bonus"
+msgstr "bónas"
+
+#: strings.xml
+#, fuzzy
+msgid "Manually enter a card number below"
+msgstr "Cuir isteach uimhir chárta thíos de láimh"
+
+#: strings.xml
+#, fuzzy
+msgid "Type code by hand"
+msgstr "Clóscríobh cód de láimh"
+
+#: strings.xml
+#, fuzzy
+msgid "You have successfully linked these accounts!"
+msgstr "D'éirigh leat na cuntais seo a cheangal!"
+
+#: strings.xml
+#, fuzzy
+msgid "Unknown"
+msgstr "Anaithnid"
+
+#: strings.xml
+#, fuzzy
+msgid "%s open until %s"
+msgstr "%s oscailte go dtí %s"
+
+#: strings.xml
+#, fuzzy
+msgid "Closed right now"
+msgstr "Dúnta anois"
+
+#: strings.xml
+#, fuzzy
+msgid "%s open at %s"
+msgstr "%s oscailte ag %s"
+
+#: strings.xml
+#, fuzzy
+msgid "Access to the camera is required here to allow you to take a picture"
+msgstr ""
+"Teastaíonn rochtain ar an gceamara anseo chun ligean duit pictiúr a ghlacadh"
+
+#: strings.xml
+#, fuzzy
+msgid "You cannot take your picture until access is granted to the camera!"
+msgstr ""
+"Ní féidir leat do phictiúr a thógáil go dtí go dtabharfar rochtain don "
+"cheamara!"
+
+#: strings.xml
+#, fuzzy
+msgid ""
+"![CDATA[Your data, privacy and trust are important to us. Only Merchant(s) "
+"where you use LoyLap will see your data as per our terms & conditions of "
+"use.]]>"
+msgstr ""
+"! [CDATA [Tá do shonraí, do phríobháideacht agus d&#39;iontaoibh tábhachtach "
+"dúinn. Ní fheicfidh LoyLap ach do Cheannaithe (í) ina n-úsáideann tú do "
+"chuid sonraí de réir ár dtéarmaí agus coinníollacha úsáide.]]>"
+
+#: strings.xml
+#, fuzzy
+msgid "Undisclosed"
+msgstr "Neamhnochta"
+
+#: FTODStrings - Eng to Irish Revised Version
+#, fuzzy
+msgid ""
+"Security Fast Track tickets are Currently sold out for this time slot.   "
+"Ticket sales will re-commence at X:XX"
+msgstr ""
+"Tá ticéid Fast Track díolta amach don tréimhse ama seo. Tosnóidh díolachán "
+"ticéid arís ag X:XX"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Sorry, Temporarily Out of Service.  Please Use Other Kiosk."
+msgstr ""
+"Ár leithscéal. As Seirbhís faoi láthair. Bin úsáid as an mboth eile le do "
+"thoil."
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "FINALISE ORDER"
+msgstr "Críochnaigh Ordú"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Thank you, please take your ticket"
+msgstr "Go raibh maith agat, tóg do thicéad le do thoil"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Would you like a receipt?"
+msgstr "Ar mhaith leat admháil?"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "No"
+msgstr "Níor mhaith liom"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "In a Hurry? Buy Your Security Fast Track Now."
+msgstr "An bhfuil deifir ort? Ceannaigh Fast Track inniu."
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Please present this ticket at the Fast Track entrance"
+msgstr "Taispeáin an ticéad seo ag an mbealach isteach go Fast Track"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Ticket number"
+msgstr "Uimhir thicéid"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid ""
+"Thank you for purchasing Fast Track at Dublin Airport. Please visit "
+"dublinairport.com for our best rates."
+msgstr ""
+"Go raibh maith agat as Fast Track a cheannach ag Aerfort Átha Cliath. "
+"Tabhair cuairt ar dublinairport.com chun na rátaí is fearr a fháil."
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "BUY NOW"
+msgstr "CEANNAIGH ANOIS"
+
+#: FTODStrings - Eng to Irish Revised Version
+#, fuzzy
+msgid "Checking stock…"
+msgstr "Ag seiceáil stoic…"
+
+#: FTODStrings - Eng to Irish Revised Version
+#, fuzzy
+msgid "checking availability"
+msgstr "ag seiceáil fáil ar thicéad"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Only X items can be sold per transaction"
+msgstr "Ní féidir ach x earra a dhíol in aon idirbheart amháin"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Passengers"
+msgstr "Paisinéirí"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Cost per Person"
+msgstr "Costas an duine"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Quantity"
+msgstr "Méid"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Sorry, no tickets are available right now!"
+msgstr "Tá brón orainn, níl aon ticéad ar fáil anois!"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Add 'Fast Track':"
+msgstr "Roghnaigh ‘Fast Track’:"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "There are no more tickets available right now!"
+msgstr "Níl aon ticéid eile ar fáil anois!"
+
+#: FTODStrings - Eng to Irish Revised Version
+msgid "Only x left:"
+msgstr "Níl ach x fágtha:"
